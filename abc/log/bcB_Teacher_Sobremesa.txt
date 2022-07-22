@@ -1,0 +1,158 @@
+jul 12, 2021 11:19:02 A. M. machine.teaching.LogService logInfo
+INFO: Concepts to identify: 
+jul 12, 2021 11:19:02 A. M. machine.teaching.LogService logInfo
+INFO: | p_a = RURD |
+jul 12, 2021 11:19:02 A. M. machine.teaching.LogService logInfo
+INFO: .
+jul 12, 2021 11:19:02 A. M. machine.teaching.LogService logInfo
+INFO: Library provided: 
+jul 12, 2021 11:19:02 A. M. machine.teaching.LogService logInfo
+INFO: | p_b = RRURD |
+jul 12, 2021 11:19:02 A. M. machine.teaching.LogService logInfo
+INFO: | p_c = R)URD) |
+jul 12, 2021 11:19:02 A. M. machine.teaching.LogService logInfo
+INFO: .
+jul 12, 2021 11:19:02 A. M. machine.teaching.LogService logInfo
+INFO: We instantiate the teacher.
+jul 12, 2021 11:19:07 A. M. machine.teaching.LogService logInfo
+INFO: We instantiate the learner.
+jul 12, 2021 11:19:07 A. M. machine.teaching.LogService logInfo
+INFO: | @0 = RRURD |
+jul 12, 2021 11:19:07 A. M. machine.teaching.LogService logInfo
+INFO: | @1 = R)URD) |
+jul 12, 2021 11:19:07 A. M. machine.teaching.LogService logInfo
+INFO: Concepts identified by the learner:
+jul 12, 2021 1:40:21 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <EE->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 12, 2021 2:20:47 P. M. machine.teaching.LogService logInfo
+INFO: {<EE->, <ENES+>} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 13, 2021 12:52:46 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <EEN->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 13, 2021 12:52:46 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <EEE->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 13, 2021 12:52:46 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <EE->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 13, 2021 12:53:51 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <EE->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 13, 2021 3:07:18 A. M. machine.teaching.LogService logInfo
+INFO: {<EEN->, <ENES+>} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 13, 2021 3:57:32 A. M. machine.teaching.LogService logInfo
+INFO: {<EEE->, <ENES+>} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 13, 2021 4:58:22 A. M. machine.teaching.LogService logInfo
+INFO: {<EE->, <ENES+>} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 13, 2021 7:14:23 A. M. machine.teaching.LogService logInfo
+INFO: {<EE->, <ENES+>} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 13, 2021 7:03:20 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <EE->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 13, 2021 7:42:35 P. M. machine.teaching.LogService logInfo
+INFO: {<EE->, <ENES+>} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 14, 2021 2:27:17 P. M. machine.teaching.LogService logInfo
+INFO: {<N->, <ENES+>, <EE->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 14, 2021 2:54:56 P. M. machine.teaching.LogService logInfo
+INFO: {<N->, <EE->, <ENES+>} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 15, 2021 10:17:45 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <ENES+>, <EE->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 15, 2021 10:44:43 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <EE->, <ENES+>} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 15, 2021 3:30:54 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <N->, <EE->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 15, 2021 3:32:01 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <S->, <EE->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 15, 2021 3:33:55 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <EENE->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 15, 2021 3:33:55 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <EEN->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 15, 2021 3:33:55 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <EEEN->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 15, 2021 3:33:55 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <EEEE->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 15, 2021 3:33:55 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <EEE->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 15, 2021 3:33:55 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <EE->, <N->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 15, 2021 3:33:55 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <EE->, <S->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 15, 2021 3:33:55 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <EE->, <E+>} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 15, 2021 3:34:53 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <EE->, <W->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 15, 2021 3:34:53 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <EE->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 15, 2021 3:37:18 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <E+>, <EE->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 15, 2021 3:40:50 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <W->, <EE->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 15, 2021 3:41:43 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <EEN->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 15, 2021 3:41:43 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <EEE->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 15, 2021 3:41:43 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <EE->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 15, 2021 3:42:46 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <EE->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 16, 2021 2:14:39 A. M. machine.teaching.LogService logInfo
+INFO: {<EENE->, <ENES+>} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 16, 2021 3:39:32 A. M. machine.teaching.LogService logInfo
+INFO: {<EEN->, <ENES+>} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 16, 2021 6:02:36 A. M. machine.teaching.LogService logInfo
+INFO: {<EEN->, <ENES+>} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 16, 2021 7:06:25 A. M. machine.teaching.LogService logInfo
+INFO: {<EEEN->, <ENES+>} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 16, 2021 7:29:24 A. M. machine.teaching.LogService logInfo
+INFO: {<EEEE->, <ENES+>} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 16, 2021 7:58:45 A. M. machine.teaching.LogService logInfo
+INFO: {<EEE->, <ENES+>} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 16, 2021 8:47:58 A. M. machine.teaching.LogService logInfo
+INFO: {<EEE->, <ENES+>} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 16, 2021 10:51:36 A. M. machine.teaching.LogService logInfo
+INFO: {<EE->, <N->, <ENES+>} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 16, 2021 12:51:06 P. M. machine.teaching.LogService logInfo
+INFO: {<EE->, <S->, <ENES+>} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 16, 2021 1:28:46 P. M. machine.teaching.LogService logInfo
+INFO: {<EE->, <ENES+>, <N->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 16, 2021 1:28:46 P. M. machine.teaching.LogService logInfo
+INFO: {<EE->, <ENES+>, <S->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 16, 2021 1:28:46 P. M. machine.teaching.LogService logInfo
+INFO: {<EE->, <ENES+>, <E+>} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 16, 2021 1:29:43 P. M. machine.teaching.LogService logInfo
+INFO: {<EE->, <ENES+>, <W->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 16, 2021 1:29:43 P. M. machine.teaching.LogService logInfo
+INFO: {<EE->, <ENES+>} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 16, 2021 5:53:05 P. M. machine.teaching.LogService logInfo
+INFO: {<EE->, <E+>, <ENES+>} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 16, 2021 11:26:32 P. M. machine.teaching.LogService logInfo
+INFO: {<EE->, <W->, <ENES+>} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 17, 2021 12:40:22 A. M. machine.teaching.LogService logInfo
+INFO: {<EE->, <ENES+>} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 17, 2021 2:49:56 A. M. machine.teaching.LogService logInfo
+INFO: {<EE->, <ENES+>} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 17, 2021 2:02:40 P. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <ENES+>, <EE->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 17, 2021 9:05:08 P. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <EE->, <ENES+>} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 19, 2021 2:40:58 A. M. machine.teaching.LogService logInfo
+INFO: {<W->, <ENES+>, <EE->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 19, 2021 3:07:22 A. M. machine.teaching.LogService logInfo
+INFO: {<W->, <EE->, <ENES+>} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 19, 2021 3:04:11 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <EEN->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 19, 2021 3:04:11 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <EEE->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 19, 2021 3:04:11 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <EE->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 19, 2021 3:05:14 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <EE->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 19, 2021 5:13:06 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN->, <ENES+>} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 19, 2021 6:01:14 P. M. machine.teaching.LogService logInfo
+INFO: {<EEE->, <ENES+>} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 19, 2021 6:59:24 P. M. machine.teaching.LogService logInfo
+INFO: {<EE->, <ENES+>} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 19, 2021 9:09:01 P. M. machine.teaching.LogService logInfo
+INFO: {<EE->, <ENES+>} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 20, 2021 8:28:53 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <EE->} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 20, 2021 9:07:19 A. M. machine.teaching.LogService logInfo
+INFO: {<EE->, <ENES+>} ==> 'RURD', with #bits='12' and Unfolded is 'RURD'
+jul 20, 2021 12:12:41 P. M. machine.teaching.LogService logInfo
+INFO: .END

@@ -1,0 +1,30 @@
+ago 01, 2021 9:36:18 A. M. machine.teaching.LogService logInfo
+INFO: Concepts to identify: 
+ago 01, 2021 9:36:18 A. M. machine.teaching.LogService logInfo
+INFO: | p_a = RURD) |
+ago 01, 2021 9:36:18 A. M. machine.teaching.LogService logInfo
+INFO: | p_b = RRURD) |
+ago 01, 2021 9:36:18 A. M. machine.teaching.LogService logInfo
+INFO: | p_d = R)URD) |
+ago 01, 2021 9:36:18 A. M. machine.teaching.LogService logInfo
+INFO: | p_c = RD) |
+ago 01, 2021 9:36:18 A. M. machine.teaching.LogService logInfo
+INFO: .
+ago 01, 2021 9:36:18 A. M. machine.teaching.LogService logInfo
+INFO: Library provided: 
+ago 01, 2021 9:36:18 A. M. machine.teaching.LogService logInfo
+INFO: | p_d = RD) |
+ago 01, 2021 9:36:18 A. M. machine.teaching.LogService logInfo
+INFO: | p_c = R)URD) |
+ago 01, 2021 9:36:18 A. M. machine.teaching.LogService logInfo
+INFO: .
+ago 01, 2021 9:36:18 A. M. machine.teaching.LogService logInfo
+INFO: We instantiate the learner.
+ago 01, 2021 9:36:18 A. M. machine.teaching.LogService logInfo
+INFO: | @0 = RD) |
+ago 01, 2021 9:36:18 A. M. machine.teaching.LogService logInfo
+INFO: | @1 = R)URD) |
+ago 01, 2021 9:36:19 A. M. machine.teaching.LogService logInfo
+INFO: Id program--->1356
+ago 01, 2021 9:36:19 A. M. machine.teaching.LogService logInfo
+INFO: The learner identifes concept 'RRU@0' on input :{<EENES+>, <EEE->}; Unfolded:RRURD).

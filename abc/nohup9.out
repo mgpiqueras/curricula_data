@@ -1,0 +1,13 @@
+INFO: Concepts to identify:  [Sun Jun 13 11:25:16 CEST 2021]
+INFO: | p_a = RURD | [Sun Jun 13 11:25:16 CEST 2021]
+INFO: . [Sun Jun 13 11:25:16 CEST 2021]
+INFO: Library provided:  [Sun Jun 13 11:25:16 CEST 2021]
+INFO: | p_b = RRURD | [Sun Jun 13 11:25:16 CEST 2021]
+INFO: | p_c = R)URD) | [Sun Jun 13 11:25:16 CEST 2021]
+INFO: . [Sun Jun 13 11:25:16 CEST 2021]
+INFO: We instantiate the teacher. [Sun Jun 13 11:25:16 CEST 2021]
+INFO: We instantiate the learner. [Sun Jun 13 11:25:33 CEST 2021]
+INFO: | @0 = RRURD | [Sun Jun 13 11:25:33 CEST 2021]
+INFO: | @1 = R)URD) | [Sun Jun 13 11:25:33 CEST 2021]
+INFO: Concepts identified by the learner: [Sun Jun 13 11:25:44 CEST 2021]
+./bcB_Teacher.sh: line 2: 32267 Killed                  java -Djava.util.logging.SimpleFormatter.format='%4$s: %5$s [%1$tc]%n' curricula.forget.bcB_Teacher

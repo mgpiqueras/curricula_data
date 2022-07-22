@@ -1,0 +1,2450 @@
+jul 30, 2021 6:06:18 P. M. machine.teaching.LogService logInfo
+INFO: Concepts to identify: 
+jul 30, 2021 6:06:18 P. M. machine.teaching.LogService logInfo
+INFO: | p_a = RURD) |
+jul 30, 2021 6:06:18 P. M. machine.teaching.LogService logInfo
+INFO: | p_b = RRURD) |
+jul 30, 2021 6:06:18 P. M. machine.teaching.LogService logInfo
+INFO: | p_c = R)URD) |
+jul 30, 2021 6:06:18 P. M. machine.teaching.LogService logInfo
+INFO: | p_d = RD) |
+jul 30, 2021 6:06:18 P. M. machine.teaching.LogService logInfo
+INFO: .
+jul 30, 2021 6:06:18 P. M. machine.teaching.LogService logInfo
+INFO: Library provided: 
+jul 30, 2021 6:06:18 P. M. machine.teaching.LogService logInfo
+INFO: | p_d = RD) |
+jul 30, 2021 6:06:18 P. M. machine.teaching.LogService logInfo
+INFO: | p_a = RURD) |
+jul 30, 2021 6:06:18 P. M. machine.teaching.LogService logInfo
+INFO: | p_b = RRURD) |
+jul 30, 2021 6:06:18 P. M. machine.teaching.LogService logInfo
+INFO: .
+jul 30, 2021 6:06:18 P. M. machine.teaching.LogService logInfo
+INFO: We instantiate the teacher.
+jul 30, 2021 6:06:23 P. M. machine.teaching.LogService logInfo
+INFO: We instantiate the learner.
+jul 30, 2021 6:06:23 P. M. machine.teaching.LogService logInfo
+INFO: | @00 = RD) |
+jul 30, 2021 6:06:23 P. M. machine.teaching.LogService logInfo
+INFO: | @01 = RURD) |
+jul 30, 2021 6:06:23 P. M. machine.teaching.LogService logInfo
+INFO: | @10 = RRURD) |
+jul 30, 2021 6:06:23 P. M. machine.teaching.LogService logInfo
+INFO: Concepts identified by the learner:
+jul 30, 2021 6:06:23 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 6:06:23 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 6:06:23 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 6:08:54 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 6:08:54 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 6:11:25 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 6:11:25 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 6:15:23 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 6:15:23 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 6:25:16 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 6:25:16 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 6:25:16 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 6:28:25 P. M. machine.teaching.LogService logInfo
+INFO: {<N->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 6:28:25 P. M. machine.teaching.LogService logInfo
+INFO: {<N->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 6:28:25 P. M. machine.teaching.LogService logInfo
+INFO: {<N->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 6:32:04 P. M. machine.teaching.LogService logInfo
+INFO: {<S->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 6:32:04 P. M. machine.teaching.LogService logInfo
+INFO: {<S->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 6:32:04 P. M. machine.teaching.LogService logInfo
+INFO: {<S->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 6:32:41 P. M. machine.teaching.LogService logInfo
+INFO: {<ENESE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 6:32:41 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 6:32:41 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <N->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 6:32:41 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <S->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 6:32:41 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <E+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 6:34:58 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <W->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 6:34:58 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 6:40:41 P. M. machine.teaching.LogService logInfo
+INFO: {<ESESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 6:40:41 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 6:40:41 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <N->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 6:40:41 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <S->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 6:40:41 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <E+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 6:44:23 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <W->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 6:44:23 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 6:52:43 P. M. machine.teaching.LogService logInfo
+INFO: {<EENES+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 6:52:43 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 6:52:43 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <N->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 6:52:43 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <S->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 6:52:43 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <E+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 6:53:31 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <W->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 6:53:31 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 6:56:00 P. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 7:01:42 P. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 7:10:01 P. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 7:21:08 P. M. machine.teaching.LogService logInfo
+INFO: {<W->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 7:21:08 P. M. machine.teaching.LogService logInfo
+INFO: {<W->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 7:21:08 P. M. machine.teaching.LogService logInfo
+INFO: {<W->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 7:25:21 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 7:25:21 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 7:27:40 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 7:27:40 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 7:31:25 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 7:31:25 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 7:40:48 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 7:40:48 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 7:40:48 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 7:42:47 P. M. machine.teaching.LogService logInfo
+INFO: {<NN->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 7:42:47 P. M. machine.teaching.LogService logInfo
+INFO: {<NN->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 7:42:47 P. M. machine.teaching.LogService logInfo
+INFO: {<NN->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 7:44:38 P. M. machine.teaching.LogService logInfo
+INFO: {<NS->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 7:44:38 P. M. machine.teaching.LogService logInfo
+INFO: {<NS->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 7:44:38 P. M. machine.teaching.LogService logInfo
+INFO: {<NS->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 7:47:44 P. M. machine.teaching.LogService logInfo
+INFO: {<NE->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 7:47:44 P. M. machine.teaching.LogService logInfo
+INFO: {<NE->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 7:47:44 P. M. machine.teaching.LogService logInfo
+INFO: {<NE->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 7:49:28 P. M. machine.teaching.LogService logInfo
+INFO: {<NW->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 7:49:28 P. M. machine.teaching.LogService logInfo
+INFO: {<NW->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 7:49:28 P. M. machine.teaching.LogService logInfo
+INFO: {<NW->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 7:57:38 P. M. machine.teaching.LogService logInfo
+INFO: {<N->, <ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 7:57:38 P. M. machine.teaching.LogService logInfo
+INFO: {<N->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 7:59:58 P. M. machine.teaching.LogService logInfo
+INFO: {<N->, <ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 7:59:58 P. M. machine.teaching.LogService logInfo
+INFO: {<N->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 8:03:41 P. M. machine.teaching.LogService logInfo
+INFO: {<N->, <EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 8:03:41 P. M. machine.teaching.LogService logInfo
+INFO: {<N->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 8:15:25 P. M. machine.teaching.LogService logInfo
+INFO: {<N->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:15:25 P. M. machine.teaching.LogService logInfo
+INFO: {<N->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 8:15:25 P. M. machine.teaching.LogService logInfo
+INFO: {<N->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 8:17:20 P. M. machine.teaching.LogService logInfo
+INFO: {<SN->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:17:20 P. M. machine.teaching.LogService logInfo
+INFO: {<SN->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 8:17:20 P. M. machine.teaching.LogService logInfo
+INFO: {<SN->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 8:19:38 P. M. machine.teaching.LogService logInfo
+INFO: {<SS->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:19:39 P. M. machine.teaching.LogService logInfo
+INFO: {<SS->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 8:19:39 P. M. machine.teaching.LogService logInfo
+INFO: {<SS->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 8:22:54 P. M. machine.teaching.LogService logInfo
+INFO: {<SE->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:22:54 P. M. machine.teaching.LogService logInfo
+INFO: {<SE->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 8:22:54 P. M. machine.teaching.LogService logInfo
+INFO: {<SE->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 8:24:38 P. M. machine.teaching.LogService logInfo
+INFO: {<SW->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:24:38 P. M. machine.teaching.LogService logInfo
+INFO: {<SW->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 8:24:38 P. M. machine.teaching.LogService logInfo
+INFO: {<SW->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 8:32:48 P. M. machine.teaching.LogService logInfo
+INFO: {<S->, <ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:32:48 P. M. machine.teaching.LogService logInfo
+INFO: {<S->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:35:07 P. M. machine.teaching.LogService logInfo
+INFO: {<S->, <ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 8:35:07 P. M. machine.teaching.LogService logInfo
+INFO: {<S->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 8:38:50 P. M. machine.teaching.LogService logInfo
+INFO: {<S->, <EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 8:38:50 P. M. machine.teaching.LogService logInfo
+INFO: {<S->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 8:50:33 P. M. machine.teaching.LogService logInfo
+INFO: {<S->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:50:33 P. M. machine.teaching.LogService logInfo
+INFO: {<S->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 8:50:33 P. M. machine.teaching.LogService logInfo
+INFO: {<S->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 8:51:16 P. M. machine.teaching.LogService logInfo
+INFO: {<ENESEN+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:51:16 P. M. machine.teaching.LogService logInfo
+INFO: {<ENESEE+>} ==> 'R)U@00', with #bits='14' and Unfolded is 'R)URD)'
+jul 30, 2021 8:51:16 P. M. machine.teaching.LogService logInfo
+INFO: {<ENESE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:51:16 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <N->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:51:16 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <S->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:51:16 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <E+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:53:29 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <W->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:53:29 P. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:53:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NN->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:53:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NS->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:53:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NE->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:53:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:53:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <N->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:53:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SN->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:53:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SS->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:53:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SE->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:53:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:53:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <S->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:53:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <EN+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:54:13 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <ES->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:54:13 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <EE->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:54:13 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <EW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:54:13 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <E+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:56:30 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WN->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:56:30 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WS->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:56:30 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WE->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:56:30 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:56:30 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <W->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:56:30 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <N->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:56:30 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <S->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:56:30 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <E+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:58:46 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <W->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 8:58:46 P. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 9:03:27 P. M. machine.teaching.LogService logInfo
+INFO: {<EN+>, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 9:04:10 P. M. machine.teaching.LogService logInfo
+INFO: {<EN->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:04:10 P. M. machine.teaching.LogService logInfo
+INFO: {<EN->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 9:28:59 P. M. machine.teaching.LogService logInfo
+INFO: {<ESESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:28:59 P. M. machine.teaching.LogService logInfo
+INFO: {<ESESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:28:59 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>, <N->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:28:59 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>, <S->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:28:59 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>, <E+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:32:37 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>, <W->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:32:37 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:32:39 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <NN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:32:39 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <NS->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:32:39 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <NE->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:32:39 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <NW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:32:39 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <N->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:32:39 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <SN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:32:39 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <SS->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:32:39 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <SE->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:32:39 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <SW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:32:39 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <S->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:32:39 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <EN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:32:39 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <ES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:33:21 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <EE->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:33:21 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <EW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:33:21 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <E+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:37:02 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <WN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:37:02 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <WS->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:37:02 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <WE->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:37:02 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <WW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:37:02 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <W->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:37:02 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <N->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:37:02 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <S->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:37:02 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <E+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:40:44 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <W->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:40:44 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:50:54 P. M. machine.teaching.LogService logInfo
+INFO: {<ES->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 9:51:12 P. M. machine.teaching.LogService logInfo
+INFO: {<ES+>, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 9:52:03 P. M. machine.teaching.LogService logInfo
+INFO: {<ES->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:25:35 P. M. machine.teaching.LogService logInfo
+INFO: {<EENESE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:25:35 P. M. machine.teaching.LogService logInfo
+INFO: {<EENES+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:25:35 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>, <N->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:25:35 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>, <S->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:25:35 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>, <E+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:26:23 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>, <W->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:26:23 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:26:23 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NN->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:26:23 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NS->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:26:23 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NE->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:26:23 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:26:23 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <N->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:26:23 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SN->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:26:23 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SS->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:26:23 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SE->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:26:23 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:26:23 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <S->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:26:23 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <EN->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:26:23 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <ES->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:26:23 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <EE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:27:09 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <EW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:27:09 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <E+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:27:57 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WN->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:27:57 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WS->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:27:57 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WE->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:27:57 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:27:57 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <W->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:27:57 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <N->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:27:57 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <S->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:27:57 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <E+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:28:45 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <W->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:28:45 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:31:33 P. M. machine.teaching.LogService logInfo
+INFO: {<EE->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 10:31:33 P. M. machine.teaching.LogService logInfo
+INFO: {<EE->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 10:31:33 P. M. machine.teaching.LogService logInfo
+INFO: {<EE+>, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:41:45 P. M. machine.teaching.LogService logInfo
+INFO: {<EW->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 10:41:45 P. M. machine.teaching.LogService logInfo
+INFO: {<EW->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 10:41:45 P. M. machine.teaching.LogService logInfo
+INFO: {<EW->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 10:59:04 P. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 11:01:19 P. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 30, 2021 11:19:40 P. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 11:23:20 P. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 30, 2021 11:51:05 P. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 30, 2021 11:51:52 P. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 12:22:06 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 12:27:44 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 12:35:59 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 12:45:54 A. M. machine.teaching.LogService logInfo
+INFO: {<WN->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 12:45:54 A. M. machine.teaching.LogService logInfo
+INFO: {<WN->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 12:45:54 A. M. machine.teaching.LogService logInfo
+INFO: {<WN->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 12:47:40 A. M. machine.teaching.LogService logInfo
+INFO: {<WS->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 12:47:40 A. M. machine.teaching.LogService logInfo
+INFO: {<WS->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 12:47:40 A. M. machine.teaching.LogService logInfo
+INFO: {<WS->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 12:50:02 A. M. machine.teaching.LogService logInfo
+INFO: {<WE->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 12:50:02 A. M. machine.teaching.LogService logInfo
+INFO: {<WE->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 12:50:02 A. M. machine.teaching.LogService logInfo
+INFO: {<WE->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 12:53:04 A. M. machine.teaching.LogService logInfo
+INFO: {<WW->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 12:53:04 A. M. machine.teaching.LogService logInfo
+INFO: {<WW->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 12:53:04 A. M. machine.teaching.LogService logInfo
+INFO: {<WW->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 12:57:39 A. M. machine.teaching.LogService logInfo
+INFO: {<W->, <ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 12:57:39 A. M. machine.teaching.LogService logInfo
+INFO: {<W->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 12:59:58 A. M. machine.teaching.LogService logInfo
+INFO: {<W->, <ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 12:59:58 A. M. machine.teaching.LogService logInfo
+INFO: {<W->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 1:03:41 A. M. machine.teaching.LogService logInfo
+INFO: {<W->, <EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 1:03:41 A. M. machine.teaching.LogService logInfo
+INFO: {<W->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 1:18:32 A. M. machine.teaching.LogService logInfo
+INFO: {<W->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 1:18:32 A. M. machine.teaching.LogService logInfo
+INFO: {<W->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 1:18:32 A. M. machine.teaching.LogService logInfo
+INFO: {<W->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 1:23:25 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 1:23:25 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 1:23:25 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 1:27:03 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 1:27:03 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 1:27:03 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 1:27:40 A. M. machine.teaching.LogService logInfo
+INFO: {<ENESE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 1:27:40 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 1:27:40 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <N->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 1:27:40 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <S->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 1:27:40 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <E+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 1:29:56 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <W->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 1:29:56 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 1:35:36 A. M. machine.teaching.LogService logInfo
+INFO: {<ESESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 1:35:36 A. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 1:35:36 A. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <N->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 1:35:36 A. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <S->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 1:35:36 A. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <E+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 1:39:17 A. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <W->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 1:39:17 A. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 1:47:36 A. M. machine.teaching.LogService logInfo
+INFO: {<EENES+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 1:47:36 A. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 1:47:36 A. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <N->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 1:47:36 A. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <S->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 1:47:36 A. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <E+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 1:48:24 A. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <W->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 1:48:24 A. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 1:50:51 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 1:56:30 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:04:46 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 2:15:52 A. M. machine.teaching.LogService logInfo
+INFO: {<W->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 2:15:52 A. M. machine.teaching.LogService logInfo
+INFO: {<W->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:15:52 A. M. machine.teaching.LogService logInfo
+INFO: {<W->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 2:20:00 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 2:20:00 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 2:22:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:22:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:26:03 A. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 2:26:03 A. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 2:35:23 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 2:35:23 A. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:35:23 A. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 2:36:23 A. M. machine.teaching.LogService logInfo
+INFO: {<NNN->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 2:36:23 A. M. machine.teaching.LogService logInfo
+INFO: {<NNN->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:36:23 A. M. machine.teaching.LogService logInfo
+INFO: {<NNN->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 2:37:08 A. M. machine.teaching.LogService logInfo
+INFO: {<NNS->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 2:37:08 A. M. machine.teaching.LogService logInfo
+INFO: {<NNS->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:37:08 A. M. machine.teaching.LogService logInfo
+INFO: {<NNS->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 2:38:34 A. M. machine.teaching.LogService logInfo
+INFO: {<NNE->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 2:38:34 A. M. machine.teaching.LogService logInfo
+INFO: {<NNE->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:38:34 A. M. machine.teaching.LogService logInfo
+INFO: {<NNE->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 2:39:26 A. M. machine.teaching.LogService logInfo
+INFO: {<NNW->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 2:39:26 A. M. machine.teaching.LogService logInfo
+INFO: {<NNW->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:39:26 A. M. machine.teaching.LogService logInfo
+INFO: {<NNW->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 2:47:52 A. M. machine.teaching.LogService logInfo
+INFO: {<NN->, <ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 2:47:52 A. M. machine.teaching.LogService logInfo
+INFO: {<NN->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 2:50:21 A. M. machine.teaching.LogService logInfo
+INFO: {<NN->, <ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:50:21 A. M. machine.teaching.LogService logInfo
+INFO: {<NN->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:54:16 A. M. machine.teaching.LogService logInfo
+INFO: {<NN->, <EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 2:54:16 A. M. machine.teaching.LogService logInfo
+INFO: {<NN->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 3:06:29 A. M. machine.teaching.LogService logInfo
+INFO: {<NN->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 3:06:29 A. M. machine.teaching.LogService logInfo
+INFO: {<NN->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 3:06:29 A. M. machine.teaching.LogService logInfo
+INFO: {<NN->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 3:07:35 A. M. machine.teaching.LogService logInfo
+INFO: {<NSN->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 3:07:35 A. M. machine.teaching.LogService logInfo
+INFO: {<NSN->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 3:07:35 A. M. machine.teaching.LogService logInfo
+INFO: {<NSN->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 3:08:05 A. M. machine.teaching.LogService logInfo
+INFO: {<NSS->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 3:08:05 A. M. machine.teaching.LogService logInfo
+INFO: {<NSS->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 3:08:05 A. M. machine.teaching.LogService logInfo
+INFO: {<NSS->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 3:09:05 A. M. machine.teaching.LogService logInfo
+INFO: {<NSE->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 3:09:05 A. M. machine.teaching.LogService logInfo
+INFO: {<NSE->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 3:09:05 A. M. machine.teaching.LogService logInfo
+INFO: {<NSE->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 3:09:45 A. M. machine.teaching.LogService logInfo
+INFO: {<NSW->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 3:09:45 A. M. machine.teaching.LogService logInfo
+INFO: {<NSW->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 3:09:45 A. M. machine.teaching.LogService logInfo
+INFO: {<NSW->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 3:15:58 A. M. machine.teaching.LogService logInfo
+INFO: {<NS->, <ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 3:15:58 A. M. machine.teaching.LogService logInfo
+INFO: {<NS->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 3:18:23 A. M. machine.teaching.LogService logInfo
+INFO: {<NS->, <ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 3:18:23 A. M. machine.teaching.LogService logInfo
+INFO: {<NS->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 3:22:14 A. M. machine.teaching.LogService logInfo
+INFO: {<NS->, <EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 3:22:14 A. M. machine.teaching.LogService logInfo
+INFO: {<NS->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 3:33:26 A. M. machine.teaching.LogService logInfo
+INFO: {<NS->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 3:33:26 A. M. machine.teaching.LogService logInfo
+INFO: {<NS->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 3:33:26 A. M. machine.teaching.LogService logInfo
+INFO: {<NS->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 3:34:51 A. M. machine.teaching.LogService logInfo
+INFO: {<NEN->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 3:34:51 A. M. machine.teaching.LogService logInfo
+INFO: {<NEN->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 3:34:51 A. M. machine.teaching.LogService logInfo
+INFO: {<NEN->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 3:36:27 A. M. machine.teaching.LogService logInfo
+INFO: {<NES->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 3:36:27 A. M. machine.teaching.LogService logInfo
+INFO: {<NES->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 3:36:27 A. M. machine.teaching.LogService logInfo
+INFO: {<NES->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 3:37:56 A. M. machine.teaching.LogService logInfo
+INFO: {<NEE->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 3:37:56 A. M. machine.teaching.LogService logInfo
+INFO: {<NEE->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 3:37:56 A. M. machine.teaching.LogService logInfo
+INFO: {<NEE->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 3:38:39 A. M. machine.teaching.LogService logInfo
+INFO: {<NEW->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 3:38:39 A. M. machine.teaching.LogService logInfo
+INFO: {<NEW->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 3:38:39 A. M. machine.teaching.LogService logInfo
+INFO: {<NEW->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 3:49:19 A. M. machine.teaching.LogService logInfo
+INFO: {<NE->, <ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 3:49:19 A. M. machine.teaching.LogService logInfo
+INFO: {<NE->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 3:51:52 A. M. machine.teaching.LogService logInfo
+INFO: {<NE->, <ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 3:51:52 A. M. machine.teaching.LogService logInfo
+INFO: {<NE->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 3:55:49 A. M. machine.teaching.LogService logInfo
+INFO: {<NE->, <EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 3:55:49 A. M. machine.teaching.LogService logInfo
+INFO: {<NE->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 4:09:07 A. M. machine.teaching.LogService logInfo
+INFO: {<NE->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 4:09:07 A. M. machine.teaching.LogService logInfo
+INFO: {<NE->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 4:09:07 A. M. machine.teaching.LogService logInfo
+INFO: {<NE->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 4:10:23 A. M. machine.teaching.LogService logInfo
+INFO: {<NWN->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 4:10:23 A. M. machine.teaching.LogService logInfo
+INFO: {<NWN->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 4:10:23 A. M. machine.teaching.LogService logInfo
+INFO: {<NWN->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 4:10:48 A. M. machine.teaching.LogService logInfo
+INFO: {<NWS->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 4:10:48 A. M. machine.teaching.LogService logInfo
+INFO: {<NWS->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 4:10:48 A. M. machine.teaching.LogService logInfo
+INFO: {<NWS->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 4:11:35 A. M. machine.teaching.LogService logInfo
+INFO: {<NWE->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 4:11:35 A. M. machine.teaching.LogService logInfo
+INFO: {<NWE->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 4:11:35 A. M. machine.teaching.LogService logInfo
+INFO: {<NWE->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 4:12:08 A. M. machine.teaching.LogService logInfo
+INFO: {<NWW->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 4:12:08 A. M. machine.teaching.LogService logInfo
+INFO: {<NWW->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 4:12:08 A. M. machine.teaching.LogService logInfo
+INFO: {<NWW->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 4:17:11 A. M. machine.teaching.LogService logInfo
+INFO: {<NW->, <ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 4:17:11 A. M. machine.teaching.LogService logInfo
+INFO: {<NW->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 4:19:35 A. M. machine.teaching.LogService logInfo
+INFO: {<NW->, <ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 4:19:35 A. M. machine.teaching.LogService logInfo
+INFO: {<NW->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 4:23:23 A. M. machine.teaching.LogService logInfo
+INFO: {<NW->, <EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 4:23:23 A. M. machine.teaching.LogService logInfo
+INFO: {<NW->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 4:34:02 A. M. machine.teaching.LogService logInfo
+INFO: {<NW->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 4:34:02 A. M. machine.teaching.LogService logInfo
+INFO: {<NW->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 4:34:02 A. M. machine.teaching.LogService logInfo
+INFO: {<NW->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 5:00:20 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <N->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 5:00:20 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <N->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 5:00:20 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <N->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 5:08:07 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <S->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 5:08:07 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <S->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 5:08:07 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <S->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 5:09:18 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <ENESE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 5:09:18 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 5:09:18 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <ENE+>, <N->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 5:09:18 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <ENE+>, <S->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 5:09:18 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <ENE+>, <E+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 5:11:35 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <ENE+>, <W->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 5:11:35 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 5:17:52 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <ESESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 5:17:52 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 5:17:52 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <ESE+>, <N->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 5:17:52 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <ESE+>, <S->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 5:17:52 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <ESE+>, <E+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 5:21:34 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <ESE+>, <W->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 5:21:34 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 5:30:27 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <EENES+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 5:30:27 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 5:30:27 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <EEN+>, <N->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 5:30:27 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <EEN+>, <S->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 5:30:27 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <EEN+>, <E+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 5:31:15 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <EEN+>, <W->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 5:31:15 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 5:36:06 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <E+>, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 5:41:46 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <E+>, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 5:50:03 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <E+>, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 6:05:18 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <W->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 6:05:18 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <W->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 6:05:18 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <W->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 6:15:34 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 6:15:34 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 6:17:54 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 6:17:54 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 6:21:37 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 6:21:37 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 6:33:22 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 6:33:22 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 6:33:22 A. M. machine.teaching.LogService logInfo
+INFO: {<N->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 6:34:22 A. M. machine.teaching.LogService logInfo
+INFO: {<SNN->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 6:34:22 A. M. machine.teaching.LogService logInfo
+INFO: {<SNN->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 6:34:22 A. M. machine.teaching.LogService logInfo
+INFO: {<SNN->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 6:34:55 A. M. machine.teaching.LogService logInfo
+INFO: {<SNS->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 6:34:55 A. M. machine.teaching.LogService logInfo
+INFO: {<SNS->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 6:34:55 A. M. machine.teaching.LogService logInfo
+INFO: {<SNS->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 6:36:05 A. M. machine.teaching.LogService logInfo
+INFO: {<SNE->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 6:36:05 A. M. machine.teaching.LogService logInfo
+INFO: {<SNE->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 6:36:05 A. M. machine.teaching.LogService logInfo
+INFO: {<SNE->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 6:36:50 A. M. machine.teaching.LogService logInfo
+INFO: {<SNW->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 6:36:50 A. M. machine.teaching.LogService logInfo
+INFO: {<SNW->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 6:36:50 A. M. machine.teaching.LogService logInfo
+INFO: {<SNW->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 6:43:39 A. M. machine.teaching.LogService logInfo
+INFO: {<SN->, <ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 6:43:39 A. M. machine.teaching.LogService logInfo
+INFO: {<SN->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 6:46:05 A. M. machine.teaching.LogService logInfo
+INFO: {<SN->, <ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 6:46:05 A. M. machine.teaching.LogService logInfo
+INFO: {<SN->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 6:49:57 A. M. machine.teaching.LogService logInfo
+INFO: {<SN->, <EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 6:49:57 A. M. machine.teaching.LogService logInfo
+INFO: {<SN->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:01:25 A. M. machine.teaching.LogService logInfo
+INFO: {<SN->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 7:01:25 A. M. machine.teaching.LogService logInfo
+INFO: {<SN->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 7:01:25 A. M. machine.teaching.LogService logInfo
+INFO: {<SN->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:02:22 A. M. machine.teaching.LogService logInfo
+INFO: {<SSN->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 7:02:22 A. M. machine.teaching.LogService logInfo
+INFO: {<SSN->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 7:02:22 A. M. machine.teaching.LogService logInfo
+INFO: {<SSN->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:03:25 A. M. machine.teaching.LogService logInfo
+INFO: {<SSS->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 7:03:25 A. M. machine.teaching.LogService logInfo
+INFO: {<SSS->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 7:03:25 A. M. machine.teaching.LogService logInfo
+INFO: {<SSS->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:04:58 A. M. machine.teaching.LogService logInfo
+INFO: {<SSE->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 7:04:58 A. M. machine.teaching.LogService logInfo
+INFO: {<SSE->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 7:04:58 A. M. machine.teaching.LogService logInfo
+INFO: {<SSE->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:05:48 A. M. machine.teaching.LogService logInfo
+INFO: {<SSW->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 7:05:48 A. M. machine.teaching.LogService logInfo
+INFO: {<SSW->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 7:05:48 A. M. machine.teaching.LogService logInfo
+INFO: {<SSW->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:13:38 A. M. machine.teaching.LogService logInfo
+INFO: {<SS->, <ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 7:13:38 A. M. machine.teaching.LogService logInfo
+INFO: {<SS->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 7:16:05 A. M. machine.teaching.LogService logInfo
+INFO: {<SS->, <ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 7:16:05 A. M. machine.teaching.LogService logInfo
+INFO: {<SS->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 7:19:57 A. M. machine.teaching.LogService logInfo
+INFO: {<SS->, <EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:19:57 A. M. machine.teaching.LogService logInfo
+INFO: {<SS->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:31:52 A. M. machine.teaching.LogService logInfo
+INFO: {<SS->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 7:31:52 A. M. machine.teaching.LogService logInfo
+INFO: {<SS->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 7:31:52 A. M. machine.teaching.LogService logInfo
+INFO: {<SS->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:33:25 A. M. machine.teaching.LogService logInfo
+INFO: {<SEN->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 7:33:25 A. M. machine.teaching.LogService logInfo
+INFO: {<SEN->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 7:33:25 A. M. machine.teaching.LogService logInfo
+INFO: {<SEN->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:35:03 A. M. machine.teaching.LogService logInfo
+INFO: {<SES->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 7:35:03 A. M. machine.teaching.LogService logInfo
+INFO: {<SES->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 7:35:03 A. M. machine.teaching.LogService logInfo
+INFO: {<SES->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:36:34 A. M. machine.teaching.LogService logInfo
+INFO: {<SEE->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 7:36:34 A. M. machine.teaching.LogService logInfo
+INFO: {<SEE->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 7:36:34 A. M. machine.teaching.LogService logInfo
+INFO: {<SEE->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:37:18 A. M. machine.teaching.LogService logInfo
+INFO: {<SEW->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 7:37:18 A. M. machine.teaching.LogService logInfo
+INFO: {<SEW->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 7:37:18 A. M. machine.teaching.LogService logInfo
+INFO: {<SEW->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:47:56 A. M. machine.teaching.LogService logInfo
+INFO: {<SE->, <ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 7:47:56 A. M. machine.teaching.LogService logInfo
+INFO: {<SE->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 7:50:28 A. M. machine.teaching.LogService logInfo
+INFO: {<SE->, <ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 7:50:28 A. M. machine.teaching.LogService logInfo
+INFO: {<SE->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 7:54:24 A. M. machine.teaching.LogService logInfo
+INFO: {<SE->, <EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:54:24 A. M. machine.teaching.LogService logInfo
+INFO: {<SE->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 8:07:39 A. M. machine.teaching.LogService logInfo
+INFO: {<SE->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 8:07:39 A. M. machine.teaching.LogService logInfo
+INFO: {<SE->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 8:07:39 A. M. machine.teaching.LogService logInfo
+INFO: {<SE->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 8:08:55 A. M. machine.teaching.LogService logInfo
+INFO: {<SWN->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 8:08:55 A. M. machine.teaching.LogService logInfo
+INFO: {<SWN->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 8:08:55 A. M. machine.teaching.LogService logInfo
+INFO: {<SWN->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 8:09:20 A. M. machine.teaching.LogService logInfo
+INFO: {<SWS->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 8:09:20 A. M. machine.teaching.LogService logInfo
+INFO: {<SWS->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 8:09:20 A. M. machine.teaching.LogService logInfo
+INFO: {<SWS->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 8:10:09 A. M. machine.teaching.LogService logInfo
+INFO: {<SWE->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 8:10:09 A. M. machine.teaching.LogService logInfo
+INFO: {<SWE->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 8:10:09 A. M. machine.teaching.LogService logInfo
+INFO: {<SWE->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 8:10:42 A. M. machine.teaching.LogService logInfo
+INFO: {<SWW->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 8:10:42 A. M. machine.teaching.LogService logInfo
+INFO: {<SWW->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 8:10:42 A. M. machine.teaching.LogService logInfo
+INFO: {<SWW->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 8:15:45 A. M. machine.teaching.LogService logInfo
+INFO: {<SW->, <ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 8:15:45 A. M. machine.teaching.LogService logInfo
+INFO: {<SW->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 8:18:08 A. M. machine.teaching.LogService logInfo
+INFO: {<SW->, <ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 8:18:08 A. M. machine.teaching.LogService logInfo
+INFO: {<SW->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 8:21:56 A. M. machine.teaching.LogService logInfo
+INFO: {<SW->, <EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 8:21:56 A. M. machine.teaching.LogService logInfo
+INFO: {<SW->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 8:32:33 A. M. machine.teaching.LogService logInfo
+INFO: {<SW->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 8:32:33 A. M. machine.teaching.LogService logInfo
+INFO: {<SW->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 8:32:33 A. M. machine.teaching.LogService logInfo
+INFO: {<SW->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 8:39:28 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <N->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 8:39:28 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <N->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 8:39:28 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <N->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 9:06:34 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <S->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 9:06:34 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <S->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 9:06:34 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <S->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 9:07:44 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <ENESE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 9:07:44 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 9:07:44 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <ENE+>, <N->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 9:07:44 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <ENE+>, <S->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 9:07:44 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <ENE+>, <E+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 9:10:01 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <ENE+>, <W->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 9:10:01 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 9:16:16 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <ESESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 9:16:16 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 9:16:16 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <ESE+>, <N->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 9:16:16 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <ESE+>, <S->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 9:16:16 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <ESE+>, <E+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 9:19:57 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <ESE+>, <W->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 9:19:57 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 9:28:49 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <EENES+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 9:28:49 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 9:28:49 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <EEN+>, <N->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 9:28:49 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <EEN+>, <S->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 9:28:49 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <EEN+>, <E+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 9:29:36 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <EEN+>, <W->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 9:29:36 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 9:34:27 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <E+>, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 9:40:05 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <E+>, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 9:48:20 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <E+>, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 10:03:30 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <W->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:03:30 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <W->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 10:03:30 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <W->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 10:13:47 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:13:47 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:16:06 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 10:16:06 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 10:19:50 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 10:19:50 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 10:31:33 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:31:33 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 10:31:33 A. M. machine.teaching.LogService logInfo
+INFO: {<S->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 10:32:30 A. M. machine.teaching.LogService logInfo
+INFO: {<ENN->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:32:30 A. M. machine.teaching.LogService logInfo
+INFO: {<ENN->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 10:32:30 A. M. machine.teaching.LogService logInfo
+INFO: {<ENN->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 10:33:01 A. M. machine.teaching.LogService logInfo
+INFO: {<ENS->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:33:01 A. M. machine.teaching.LogService logInfo
+INFO: {<ENS->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 10:33:01 A. M. machine.teaching.LogService logInfo
+INFO: {<ENS->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 10:33:58 A. M. machine.teaching.LogService logInfo
+INFO: {<ENESENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:33:58 A. M. machine.teaching.LogService logInfo
+INFO: {<ENESEN+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:33:58 A. M. machine.teaching.LogService logInfo
+INFO: {<ENESEEN+>} ==> 'R)U@00', with #bits='14' and Unfolded is 'R)URD)'
+jul 31, 2021 10:33:58 A. M. machine.teaching.LogService logInfo
+INFO: {<ENESEEE+>} ==> 'R)U@00', with #bits='14' and Unfolded is 'R)URD)'
+jul 31, 2021 10:33:58 A. M. machine.teaching.LogService logInfo
+INFO: {<ENESEE+>} ==> 'R)U@00', with #bits='14' and Unfolded is 'R)URD)'
+jul 31, 2021 10:33:59 A. M. machine.teaching.LogService logInfo
+INFO: {<ENESE+>, <N->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:33:59 A. M. machine.teaching.LogService logInfo
+INFO: {<ENESE+>, <S->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:33:59 A. M. machine.teaching.LogService logInfo
+INFO: {<ENESE+>, <E+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:36:12 A. M. machine.teaching.LogService logInfo
+INFO: {<ENESE+>, <W->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:36:12 A. M. machine.teaching.LogService logInfo
+INFO: {<ENESE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:36:42 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <NN->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:36:42 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <NS->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:36:42 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <NE->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:36:42 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <NW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:36:42 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <N->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:36:42 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <SN->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:36:42 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <SS->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:36:42 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <SE->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:36:42 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <SW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:36:42 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <S->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:36:42 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <EN+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:37:24 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <ES->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:37:24 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <EE->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:37:24 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <EW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:37:24 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <E+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:39:38 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <WN->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:39:38 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <WS->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:39:38 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <WE->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:39:38 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <WW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:39:38 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <W->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:39:38 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <N->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:39:38 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <S->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:39:38 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <E+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:41:51 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>, <W->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:41:51 A. M. machine.teaching.LogService logInfo
+INFO: {<ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:42:03 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NNN->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:42:03 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NNS->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:42:03 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NNE->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:42:03 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NNW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:42:03 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NN->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:42:03 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NSN->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:42:03 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NSS->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:42:03 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NSE->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:42:03 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NSW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:42:03 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NS->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:42:03 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NEN->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:42:03 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NES->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:42:03 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NEE->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:42:03 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NEW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:42:03 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NE->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:42:03 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NWN->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:42:03 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NWS->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:42:03 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NWE->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:42:03 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NWW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:42:03 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:42:03 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <N->, <N->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:42:03 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <N->, <S->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:42:03 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <N->, <E+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:44:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <N->, <W->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:44:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <N->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:44:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SNN->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:44:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SNS->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:44:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SNE->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:44:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SNW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:44:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SN->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:44:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SSN->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:44:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SSS->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:44:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SSE->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:44:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SSW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:44:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SS->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:44:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SEN->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:44:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SES->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:44:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SEE->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:44:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SEW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:44:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SE->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:44:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SWN->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:44:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SWS->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:44:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SWE->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:44:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SWW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:44:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:44:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <S->, <N->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:44:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <S->, <S->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:44:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <S->, <E+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:46:37 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <S->, <W->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:46:37 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <S->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:46:37 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <ENN->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:46:37 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <ENS->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:46:37 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:46:37 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <ENW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:46:37 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <EN+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:47:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <ESN->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:47:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <ESS->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:47:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 10:47:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <ESE->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:47:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <ESW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:47:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <ES->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:47:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 10:47:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <EEN->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:47:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <EES->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:47:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <EEE->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:47:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <EEW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:47:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <EE->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:47:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <EWN->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:47:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <EWS->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:47:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <EWE->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:47:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <EWW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:47:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <EW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:47:20 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <E+>, <N->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:49:37 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <E+>, <S->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:51:53 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <E+>, <E+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:56:27 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <E+>, <W->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:58:44 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <E+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:01:00 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WNN->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:01:00 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WNS->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:01:00 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WNE->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:01:00 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WNW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:01:00 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WN->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:01:00 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WSN->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:01:00 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WSS->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:01:00 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WSE->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:01:00 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WSW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:01:00 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WS->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:01:00 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WEN->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:01:00 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WES->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:01:00 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WEE->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:01:00 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WEW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:01:00 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WE->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:01:00 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WWN->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:01:00 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WWS->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:01:00 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WWE->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:01:00 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WWW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:01:00 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:01:00 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <W->, <N->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:01:00 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <W->, <S->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:01:00 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <W->, <E+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:03:17 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <W->, <W->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:03:17 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <W->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:03:17 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NN->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:03:17 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NS->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:03:17 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NE->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:03:17 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:03:17 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <N->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:03:17 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SN->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:03:17 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SS->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:03:17 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SE->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:03:17 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:03:17 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <S->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:03:17 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <EN+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:04:00 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <ES->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:04:00 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <EE->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:04:00 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <EW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:04:00 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <E+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:06:16 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WN->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:06:16 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WS->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:06:16 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WE->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:06:16 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WW->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:06:16 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <W->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:06:16 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <N->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:06:16 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <S->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:06:16 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <E+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:08:33 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>, <W->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:08:33 A. M. machine.teaching.LogService logInfo
+INFO: {<ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:08:55 A. M. machine.teaching.LogService logInfo
+INFO: {<ENW->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:08:55 A. M. machine.teaching.LogService logInfo
+INFO: {<ENW->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 11:08:55 A. M. machine.teaching.LogService logInfo
+INFO: {<ENW->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 11:39:13 A. M. machine.teaching.LogService logInfo
+INFO: {<EN+>, <ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:39:56 A. M. machine.teaching.LogService logInfo
+INFO: {<EN+>, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:42:59 A. M. machine.teaching.LogService logInfo
+INFO: {<EN->, <ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 11:42:59 A. M. machine.teaching.LogService logInfo
+INFO: {<EN->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 11:49:01 A. M. machine.teaching.LogService logInfo
+INFO: {<EN->, <EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 11:49:01 A. M. machine.teaching.LogService logInfo
+INFO: {<EN->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 1:21:42 P. M. machine.teaching.LogService logInfo
+INFO: {<EN+>, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 1:22:25 P. M. machine.teaching.LogService logInfo
+INFO: {<EN->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 1:22:25 P. M. machine.teaching.LogService logInfo
+INFO: {<EN->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 1:46:10 P. M. machine.teaching.LogService logInfo
+INFO: {<ESN->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 1:46:10 P. M. machine.teaching.LogService logInfo
+INFO: {<ESN->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 1:46:20 P. M. machine.teaching.LogService logInfo
+INFO: {<ESN->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 1:54:05 P. M. machine.teaching.LogService logInfo
+INFO: {<ESS->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 1:54:05 P. M. machine.teaching.LogService logInfo
+INFO: {<ESS->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 1:54:13 P. M. machine.teaching.LogService logInfo
+INFO: {<ESS->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 2:00:07 P. M. machine.teaching.LogService logInfo
+INFO: {<ESESESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:00:07 P. M. machine.teaching.LogService logInfo
+INFO: {<ESESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:00:07 P. M. machine.teaching.LogService logInfo
+INFO: {<ESESE+>, <N->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:00:07 P. M. machine.teaching.LogService logInfo
+INFO: {<ESESE+>, <S->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:00:07 P. M. machine.teaching.LogService logInfo
+INFO: {<ESESE+>, <E+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:03:46 P. M. machine.teaching.LogService logInfo
+INFO: {<ESESE+>, <W->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:03:46 P. M. machine.teaching.LogService logInfo
+INFO: {<ESESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:04:37 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>, <NN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:04:37 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>, <NS->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:04:37 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>, <NE->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:04:37 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>, <NW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:04:37 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>, <N->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:04:37 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>, <SN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:04:37 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>, <SS->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:04:37 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>, <SE->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:04:37 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>, <SW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:04:37 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>, <S->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:04:37 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>, <EN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:04:37 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>, <ES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:05:18 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>, <EE->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:05:18 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>, <EW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:05:18 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>, <E+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:08:57 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>, <WN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:08:57 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>, <WS->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:08:57 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>, <WE->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:08:57 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>, <WW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:08:57 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>, <W->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:08:57 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>, <N->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:08:57 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>, <S->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:08:57 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>, <E+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:12:36 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>, <W->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:12:36 P. M. machine.teaching.LogService logInfo
+INFO: {<ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:12:50 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <NNN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:12:50 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <NNS->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:12:50 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <NNE->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:12:50 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <NNW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:12:50 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <NN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:12:50 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <NSN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:12:50 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <NSS->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:12:50 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <NSE->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:12:50 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <NSW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:12:50 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <NS->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:12:50 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <NEN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:12:50 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <NES->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:12:50 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <NEE->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:12:50 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <NEW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:12:50 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <NE->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:12:50 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <NWN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:12:50 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <NWS->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:12:50 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <NWE->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:12:50 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <NWW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:12:50 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <NW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:12:50 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <N->, <N->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:12:50 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <N->, <S->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:12:50 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <N->, <E+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:16:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <N->, <W->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:16:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <N->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:16:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <SNN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:16:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <SNS->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:16:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <SNE->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:16:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <SNW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:16:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <SN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:16:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <SSN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:16:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <SSS->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:16:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <SSE->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:16:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <SSW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:16:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <SS->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:16:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <SEN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:16:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <SES->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:16:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <SEE->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:16:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <SEW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:16:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <SE->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:16:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <SWN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:16:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <SWS->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:16:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <SWE->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:16:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <SWW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:16:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <SW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:16:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <S->, <N->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:16:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <S->, <S->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:16:31 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <S->, <E+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:20:13 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <S->, <W->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:20:13 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <S->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:20:13 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <ENN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:20:13 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <ENS->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:20:13 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 2:20:13 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <ENE->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:20:13 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <ENW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:20:13 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <EN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:20:13 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <ESN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:20:13 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <ESS->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:20:13 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:20:13 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <ESW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:20:13 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <ES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:20:55 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 2:20:55 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <EEN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:20:55 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <EES->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:20:55 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <EEE->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:20:55 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <EEW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:20:55 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <EE->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:20:55 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <EWN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:20:55 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <EWS->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:20:55 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <EWE->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:20:55 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <EWW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:20:55 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <EW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:20:55 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <E+>, <N->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:24:36 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <E+>, <S->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:28:17 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <E+>, <E+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:35:39 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <E+>, <W->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:39:20 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <E+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:43:01 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <WNN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:43:01 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <WNS->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:43:01 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <WNE->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:43:01 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <WNW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:43:01 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <WN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:43:01 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <WSN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:43:01 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <WSS->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:43:01 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <WSE->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:43:01 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <WSW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:43:01 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <WS->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:43:01 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <WEN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:43:01 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <WES->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:43:01 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <WEE->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:43:01 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <WEW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:43:01 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <WE->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:43:01 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <WWN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:43:01 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <WWS->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:43:01 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <WWE->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:43:01 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <WWW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:43:01 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <WW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:43:01 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <W->, <N->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:43:01 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <W->, <S->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:43:01 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <W->, <E+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:46:42 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <W->, <W->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:46:42 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <W->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:46:42 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <NN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:46:42 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <NS->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:46:42 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <NE->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:46:42 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <NW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:46:42 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <N->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:46:42 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <SN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:46:42 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <SS->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:46:42 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <SE->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:46:42 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <SW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:46:42 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <S->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:46:42 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <EN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:46:42 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <ES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:47:24 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <EE->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:47:24 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <EW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:47:24 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <E+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:51:04 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <WN->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:51:04 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <WS->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:51:04 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <WE->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:51:04 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <WW->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:51:04 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <W->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:51:04 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <N->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:51:04 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <S->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:51:04 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <E+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:54:45 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>, <W->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:54:45 P. M. machine.teaching.LogService logInfo
+INFO: {<ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:59:17 P. M. machine.teaching.LogService logInfo
+INFO: {<ESW->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 2:59:17 P. M. machine.teaching.LogService logInfo
+INFO: {<ESW->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 2:59:26 P. M. machine.teaching.LogService logInfo
+INFO: {<ESW->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 3:54:20 P. M. machine.teaching.LogService logInfo
+INFO: {<ES->, <ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 3:54:20 P. M. machine.teaching.LogService logInfo
+INFO: {<ES->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 4:00:58 P. M. machine.teaching.LogService logInfo
+INFO: {<ES+>, <ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 4:01:40 P. M. machine.teaching.LogService logInfo
+INFO: {<ES+>, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 4:06:24 P. M. machine.teaching.LogService logInfo
+INFO: {<ES->, <EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 4:06:24 P. M. machine.teaching.LogService logInfo
+INFO: {<ES->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 6:29:39 P. M. machine.teaching.LogService logInfo
+INFO: {<ES->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 6:29:57 P. M. machine.teaching.LogService logInfo
+INFO: {<ES+>, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 6:30:48 P. M. machine.teaching.LogService logInfo
+INFO: {<ES->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:04:31 P. M. machine.teaching.LogService logInfo
+INFO: {<EENESEN+>} ==> 'R)U@00', with #bits='14' and Unfolded is 'R)URD)'
+jul 31, 2021 7:04:31 P. M. machine.teaching.LogService logInfo
+INFO: {<EENESEE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:04:31 P. M. machine.teaching.LogService logInfo
+INFO: {<EENESE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:04:31 P. M. machine.teaching.LogService logInfo
+INFO: {<EENES+>, <N->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:04:31 P. M. machine.teaching.LogService logInfo
+INFO: {<EENES+>, <S->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:04:31 P. M. machine.teaching.LogService logInfo
+INFO: {<EENES+>, <E+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:05:18 P. M. machine.teaching.LogService logInfo
+INFO: {<EENES+>, <W->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:05:18 P. M. machine.teaching.LogService logInfo
+INFO: {<EENES+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:05:20 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>, <NN->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:05:20 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>, <NS->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:05:20 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>, <NE->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:05:20 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>, <NW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:05:20 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>, <N->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:05:20 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>, <SN->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:05:20 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>, <SS->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:05:20 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>, <SE->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:05:20 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>, <SW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:05:20 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>, <S->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:05:20 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>, <EN->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:05:20 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>, <ES->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:05:20 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>, <EE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:06:06 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>, <EW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:06:06 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>, <E+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:06:53 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>, <WN->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:06:53 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>, <WS->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:06:53 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>, <WE->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:06:53 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>, <WW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:06:53 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>, <W->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:06:53 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>, <N->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:06:53 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>, <S->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:06:53 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>, <E+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:07:41 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>, <W->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:07:41 P. M. machine.teaching.LogService logInfo
+INFO: {<EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:07:46 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NNN->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:07:46 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NNS->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:07:46 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NNE->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:07:46 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NNW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:07:46 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NN->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:07:46 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NSN->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:07:46 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NSS->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:07:46 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NSE->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:07:46 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NSW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:07:46 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NS->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:07:46 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NEN->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:07:46 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NES->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:07:46 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NEE->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:07:46 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NEW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:07:46 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NE->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:07:46 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NWN->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:07:46 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NWS->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:07:46 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NWE->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:07:46 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NWW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:07:46 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:07:46 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <N->, <N->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:07:46 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <N->, <S->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:07:46 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <N->, <E+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:08:33 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <N->, <W->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:08:33 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <N->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:08:33 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SNN->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:08:33 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SNS->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:08:33 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SNE->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:08:33 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SNW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:08:33 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SN->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:08:33 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SSN->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:08:33 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SSS->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:08:33 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SSE->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:08:33 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SSW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:08:33 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SS->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:08:33 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SEN->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:08:33 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SES->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:08:33 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SEE->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:08:33 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SEW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:08:33 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SE->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:08:33 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SWN->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:08:33 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SWS->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:08:33 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SWE->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:08:33 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SWW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:08:33 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:08:33 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <S->, <N->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:08:33 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <S->, <S->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:08:33 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <S->, <E+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:09:21 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <S->, <W->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:09:21 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <S->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:09:21 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <ENN->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:09:21 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <ENS->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:09:21 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 7:09:21 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <ENE->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:09:21 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <ENW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:09:21 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <EN->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:09:21 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <ESN->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:09:21 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <ESS->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:09:21 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 7:09:21 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <ESE->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:09:21 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <ESW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:09:21 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <ES->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:09:21 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:09:21 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <EES->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:09:21 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <EEE->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:09:21 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <EEW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:09:21 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <EE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:10:07 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <EWN->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:10:07 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <EWS->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:10:07 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <EWE->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:10:07 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <EWW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:10:07 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <EW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:10:07 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <E+>, <N->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:10:55 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <E+>, <S->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:11:42 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <E+>, <E+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:13:17 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <E+>, <W->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:14:05 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <E+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:14:52 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WNN->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:14:52 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WNS->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:14:52 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WNE->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:14:52 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WNW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:14:52 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WN->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:14:52 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WSN->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:14:52 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WSS->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:14:52 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WSE->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:14:52 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WSW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:14:52 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WS->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:14:52 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WEN->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:14:52 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WES->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:14:52 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WEE->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:14:52 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WEW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:14:52 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WE->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:14:52 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WWN->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:14:52 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WWS->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:14:52 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WWE->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:14:52 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WWW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:14:52 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:14:52 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <W->, <N->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:14:52 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <W->, <S->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:14:52 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <W->, <E+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:15:40 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <W->, <W->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:15:40 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <W->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:15:40 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NN->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:15:40 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NS->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:15:40 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NE->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:15:40 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:15:40 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <N->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:15:40 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SN->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:15:40 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SS->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:15:40 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SE->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:15:40 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:15:40 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <S->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:15:40 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <EN->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:15:40 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <ES->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:15:40 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <EE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:16:26 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <EW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:16:26 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <E+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:17:14 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WN->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:17:14 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WS->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:17:14 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WE->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:17:14 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WW->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:17:14 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <W->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:17:14 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <N->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:17:14 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <S->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:17:14 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <E+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:18:01 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>, <W->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:18:01 P. M. machine.teaching.LogService logInfo
+INFO: {<EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:18:41 P. M. machine.teaching.LogService logInfo
+INFO: {<EES->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 7:18:41 P. M. machine.teaching.LogService logInfo
+INFO: {<EES->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 7:18:41 P. M. machine.teaching.LogService logInfo
+INFO: {<EES->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:20:18 P. M. machine.teaching.LogService logInfo
+INFO: {<EEE->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 7:20:18 P. M. machine.teaching.LogService logInfo
+INFO: {<EEE->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 7:20:18 P. M. machine.teaching.LogService logInfo
+INFO: {<EEE->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:21:50 P. M. machine.teaching.LogService logInfo
+INFO: {<EEW->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 7:21:50 P. M. machine.teaching.LogService logInfo
+INFO: {<EEW->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 7:21:50 P. M. machine.teaching.LogService logInfo
+INFO: {<EEW->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:36:04 P. M. machine.teaching.LogService logInfo
+INFO: {<EE->, <ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 7:36:04 P. M. machine.teaching.LogService logInfo
+INFO: {<EE->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 7:39:22 P. M. machine.teaching.LogService logInfo
+INFO: {<EE->, <ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 7:39:22 P. M. machine.teaching.LogService logInfo
+INFO: {<EE->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 7:44:05 P. M. machine.teaching.LogService logInfo
+INFO: {<EE+>, <EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 7:44:51 P. M. machine.teaching.LogService logInfo
+INFO: {<EE+>, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 8:29:42 P. M. machine.teaching.LogService logInfo
+INFO: {<EE->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 8:29:42 P. M. machine.teaching.LogService logInfo
+INFO: {<EE->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 8:29:42 P. M. machine.teaching.LogService logInfo
+INFO: {<EE+>, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 8:39:46 P. M. machine.teaching.LogService logInfo
+INFO: {<EWN->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 8:39:46 P. M. machine.teaching.LogService logInfo
+INFO: {<EWN->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 8:39:46 P. M. machine.teaching.LogService logInfo
+INFO: {<EWN->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 8:40:10 P. M. machine.teaching.LogService logInfo
+INFO: {<EWS->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 8:40:10 P. M. machine.teaching.LogService logInfo
+INFO: {<EWS->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 8:40:10 P. M. machine.teaching.LogService logInfo
+INFO: {<EWS->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 8:40:41 P. M. machine.teaching.LogService logInfo
+INFO: {<EWE->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 8:40:41 P. M. machine.teaching.LogService logInfo
+INFO: {<EWE->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 8:40:41 P. M. machine.teaching.LogService logInfo
+INFO: {<EWE->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 8:41:28 P. M. machine.teaching.LogService logInfo
+INFO: {<EWW->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 8:41:28 P. M. machine.teaching.LogService logInfo
+INFO: {<EWW->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 8:41:28 P. M. machine.teaching.LogService logInfo
+INFO: {<EWW->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 8:44:47 P. M. machine.teaching.LogService logInfo
+INFO: {<EW->, <ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 8:44:47 P. M. machine.teaching.LogService logInfo
+INFO: {<EW->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 8:47:10 P. M. machine.teaching.LogService logInfo
+INFO: {<EW->, <ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 8:47:10 P. M. machine.teaching.LogService logInfo
+INFO: {<EW->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 8:50:58 P. M. machine.teaching.LogService logInfo
+INFO: {<EW->, <EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 8:50:58 P. M. machine.teaching.LogService logInfo
+INFO: {<EW->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 9:03:01 P. M. machine.teaching.LogService logInfo
+INFO: {<EW->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 9:03:01 P. M. machine.teaching.LogService logInfo
+INFO: {<EW->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 9:03:01 P. M. machine.teaching.LogService logInfo
+INFO: {<EW->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 9:35:12 P. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <N->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 9:40:51 P. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <N->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 9:49:07 P. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <N->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 10:30:28 P. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <S->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:36:06 P. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <S->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+jul 31, 2021 10:44:22 P. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <S->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+jul 31, 2021 10:55:15 P. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <ENESE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 10:57:57 P. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:00:14 P. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <ENE+>, <N->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:02:31 P. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <ENE+>, <S->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:04:47 P. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <ENE+>, <E+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:09:19 P. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <ENE+>, <W->} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+jul 31, 2021 11:11:35 P. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 12:30:44 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <ESESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 12:35:13 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 12:38:56 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <ESE+>, <N->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 12:42:37 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <ESE+>, <S->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 12:46:19 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <ESE+>, <E+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 12:53:42 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <ESE+>, <W->} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 12:57:24 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 2:52:13 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <EENES+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 2:53:01 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 2:53:49 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <EEN+>, <N->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 2:54:37 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <EEN+>, <S->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 2:55:24 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <EEN+>, <E+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 2:57:00 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <EEN+>, <W->} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 2:57:48 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 3:43:09 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <E+>, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 3:54:27 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <E+>, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 4:10:57 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <E+>, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 4:59:39 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <W->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 5:05:17 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <W->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 5:13:33 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <W->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 5:41:11 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 5:43:25 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 6:01:45 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 6:05:24 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 6:33:07 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 6:33:54 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 7:04:12 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 7:09:52 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 7:18:09 A. M. machine.teaching.LogService logInfo
+INFO: {<E+>, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 7:27:44 A. M. machine.teaching.LogService logInfo
+INFO: {<WNN->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 7:27:44 A. M. machine.teaching.LogService logInfo
+INFO: {<WNN->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 7:27:44 A. M. machine.teaching.LogService logInfo
+INFO: {<WNN->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 7:28:14 A. M. machine.teaching.LogService logInfo
+INFO: {<WNS->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 7:28:14 A. M. machine.teaching.LogService logInfo
+INFO: {<WNS->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 7:28:14 A. M. machine.teaching.LogService logInfo
+INFO: {<WNS->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 7:29:02 A. M. machine.teaching.LogService logInfo
+INFO: {<WNE->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 7:29:02 A. M. machine.teaching.LogService logInfo
+INFO: {<WNE->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 7:29:02 A. M. machine.teaching.LogService logInfo
+INFO: {<WNE->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 7:30:06 A. M. machine.teaching.LogService logInfo
+INFO: {<WNW->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 7:30:06 A. M. machine.teaching.LogService logInfo
+INFO: {<WNW->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 7:30:06 A. M. machine.teaching.LogService logInfo
+INFO: {<WNW->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 7:34:10 A. M. machine.teaching.LogService logInfo
+INFO: {<WN->, <ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 7:34:10 A. M. machine.teaching.LogService logInfo
+INFO: {<WN->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 7:36:36 A. M. machine.teaching.LogService logInfo
+INFO: {<WN->, <ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 7:36:36 A. M. machine.teaching.LogService logInfo
+INFO: {<WN->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 7:40:27 A. M. machine.teaching.LogService logInfo
+INFO: {<WN->, <EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 7:40:27 A. M. machine.teaching.LogService logInfo
+INFO: {<WN->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 7:54:09 A. M. machine.teaching.LogService logInfo
+INFO: {<WN->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 7:54:09 A. M. machine.teaching.LogService logInfo
+INFO: {<WN->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 7:54:09 A. M. machine.teaching.LogService logInfo
+INFO: {<WN->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 7:55:37 A. M. machine.teaching.LogService logInfo
+INFO: {<WSN->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 7:55:37 A. M. machine.teaching.LogService logInfo
+INFO: {<WSN->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 7:55:37 A. M. machine.teaching.LogService logInfo
+INFO: {<WSN->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 7:56:04 A. M. machine.teaching.LogService logInfo
+INFO: {<WSS->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 7:56:04 A. M. machine.teaching.LogService logInfo
+INFO: {<WSS->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 7:56:04 A. M. machine.teaching.LogService logInfo
+INFO: {<WSS->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 7:56:48 A. M. machine.teaching.LogService logInfo
+INFO: {<WSE->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 7:56:48 A. M. machine.teaching.LogService logInfo
+INFO: {<WSE->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 7:56:48 A. M. machine.teaching.LogService logInfo
+INFO: {<WSE->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 7:57:45 A. M. machine.teaching.LogService logInfo
+INFO: {<WSW->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 7:57:45 A. M. machine.teaching.LogService logInfo
+INFO: {<WSW->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 7:57:45 A. M. machine.teaching.LogService logInfo
+INFO: {<WSW->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 8:01:34 A. M. machine.teaching.LogService logInfo
+INFO: {<WS->, <ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 8:01:34 A. M. machine.teaching.LogService logInfo
+INFO: {<WS->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 8:03:59 A. M. machine.teaching.LogService logInfo
+INFO: {<WS->, <ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 8:03:59 A. M. machine.teaching.LogService logInfo
+INFO: {<WS->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 8:07:49 A. M. machine.teaching.LogService logInfo
+INFO: {<WS->, <EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 8:07:49 A. M. machine.teaching.LogService logInfo
+INFO: {<WS->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 8:20:58 A. M. machine.teaching.LogService logInfo
+INFO: {<WS->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 8:20:58 A. M. machine.teaching.LogService logInfo
+INFO: {<WS->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 8:20:58 A. M. machine.teaching.LogService logInfo
+INFO: {<WS->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 8:22:33 A. M. machine.teaching.LogService logInfo
+INFO: {<WEN->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 8:22:33 A. M. machine.teaching.LogService logInfo
+INFO: {<WEN->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 8:22:33 A. M. machine.teaching.LogService logInfo
+INFO: {<WEN->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 8:23:58 A. M. machine.teaching.LogService logInfo
+INFO: {<WES->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 8:23:58 A. M. machine.teaching.LogService logInfo
+INFO: {<WES->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 8:23:58 A. M. machine.teaching.LogService logInfo
+INFO: {<WES->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 8:25:29 A. M. machine.teaching.LogService logInfo
+INFO: {<WEE->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 8:25:29 A. M. machine.teaching.LogService logInfo
+INFO: {<WEE->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 8:25:29 A. M. machine.teaching.LogService logInfo
+INFO: {<WEE->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 8:26:35 A. M. machine.teaching.LogService logInfo
+INFO: {<WEW->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 8:26:35 A. M. machine.teaching.LogService logInfo
+INFO: {<WEW->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 8:26:35 A. M. machine.teaching.LogService logInfo
+INFO: {<WEW->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 8:31:46 A. M. machine.teaching.LogService logInfo
+INFO: {<WE->, <ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 8:31:46 A. M. machine.teaching.LogService logInfo
+INFO: {<WE->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 8:34:18 A. M. machine.teaching.LogService logInfo
+INFO: {<WE->, <ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 8:34:18 A. M. machine.teaching.LogService logInfo
+INFO: {<WE->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 8:38:14 A. M. machine.teaching.LogService logInfo
+INFO: {<WE->, <EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 8:38:14 A. M. machine.teaching.LogService logInfo
+INFO: {<WE->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 8:55:49 A. M. machine.teaching.LogService logInfo
+INFO: {<WE->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 8:55:49 A. M. machine.teaching.LogService logInfo
+INFO: {<WE->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 8:55:49 A. M. machine.teaching.LogService logInfo
+INFO: {<WE->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 8:58:18 A. M. machine.teaching.LogService logInfo
+INFO: {<WWN->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 8:58:18 A. M. machine.teaching.LogService logInfo
+INFO: {<WWN->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 8:58:18 A. M. machine.teaching.LogService logInfo
+INFO: {<WWN->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 8:58:46 A. M. machine.teaching.LogService logInfo
+INFO: {<WWS->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 8:58:46 A. M. machine.teaching.LogService logInfo
+INFO: {<WWS->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 8:58:46 A. M. machine.teaching.LogService logInfo
+INFO: {<WWS->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 8:59:33 A. M. machine.teaching.LogService logInfo
+INFO: {<WWE->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 8:59:33 A. M. machine.teaching.LogService logInfo
+INFO: {<WWE->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 8:59:33 A. M. machine.teaching.LogService logInfo
+INFO: {<WWE->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 9:00:51 A. M. machine.teaching.LogService logInfo
+INFO: {<WWW->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 9:00:51 A. M. machine.teaching.LogService logInfo
+INFO: {<WWW->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 9:00:51 A. M. machine.teaching.LogService logInfo
+INFO: {<WWW->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 9:05:12 A. M. machine.teaching.LogService logInfo
+INFO: {<WW->, <ENES+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 9:05:12 A. M. machine.teaching.LogService logInfo
+INFO: {<WW->, <ENE+>} ==> '@01', with #bits='5' and Unfolded is 'RURD)'
+ago 01, 2021 9:07:40 A. M. machine.teaching.LogService logInfo
+INFO: {<WW->, <ESES+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 9:07:40 A. M. machine.teaching.LogService logInfo
+INFO: {<WW->, <ESE+>} ==> '@00', with #bits='5' and Unfolded is 'RD)'
+ago 01, 2021 9:11:39 A. M. machine.teaching.LogService logInfo
+INFO: {<WW->, <EENE+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'
+ago 01, 2021 9:11:39 A. M. machine.teaching.LogService logInfo
+INFO: {<WW->, <EEN+>} ==> '@10', with #bits='5' and Unfolded is 'RRURD)'

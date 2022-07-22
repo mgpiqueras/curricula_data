@@ -1,0 +1,1316 @@
+Jun 12, 2021 9:18:37 AM machine.teaching.LogService logInfo
+INFO: Concepts to identify: 
+Jun 12, 2021 9:18:37 AM machine.teaching.LogService logInfo
+INFO: | p_a = RURD |
+Jun 12, 2021 9:18:37 AM machine.teaching.LogService logInfo
+INFO: | p_b = RRURD |
+Jun 12, 2021 9:18:37 AM machine.teaching.LogService logInfo
+INFO: | p_b = R@1 |
+Jun 12, 2021 9:18:37 AM machine.teaching.LogService logInfo
+INFO: | p_c = R)URD) |
+Jun 12, 2021 9:18:37 AM machine.teaching.LogService logInfo
+INFO: .
+Jun 12, 2021 9:18:37 AM machine.teaching.LogService logInfo
+INFO: Library provided: 
+Jun 12, 2021 9:18:37 AM machine.teaching.LogService logInfo
+INFO: | p_a = RURD |
+Jun 12, 2021 9:18:37 AM machine.teaching.LogService logInfo
+INFO: .
+Jun 12, 2021 9:18:37 AM machine.teaching.LogService logInfo
+INFO: We instantiate the teacher.
+Jun 12, 2021 9:18:49 AM machine.teaching.LogService logInfo
+INFO: We instantiate the learner.
+Jun 12, 2021 9:18:49 AM machine.teaching.LogService logInfo
+INFO: | @ = RURD |
+Jun 12, 2021 9:18:50 AM machine.teaching.LogService logInfo
+INFO: Concepts identified by the learner:
+Jun 12, 2021 9:18:50 AM machine.teaching.LogService logInfo
+INFO: {<EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:18:50 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:18:50 AM machine.teaching.LogService logInfo
+INFO: {<EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:18:50 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:18:50 AM machine.teaching.LogService logInfo
+INFO: {<EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:19:29 AM machine.teaching.LogService logInfo
+INFO: {<N->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:19:54 AM machine.teaching.LogService logInfo
+INFO: {<S->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:19:54 AM machine.teaching.LogService logInfo
+INFO: {<ENES+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:19:54 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:19:54 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <N->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:19:54 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <S->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:20:14 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <W->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:20:14 AM machine.teaching.LogService logInfo
+INFO: {<EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:20:17 AM machine.teaching.LogService logInfo
+INFO: {<EENE+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:20:17 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:21:04 AM machine.teaching.LogService logInfo
+INFO: {<W->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:21:16 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:21:16 AM machine.teaching.LogService logInfo
+INFO: {<EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:21:16 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:21:16 AM machine.teaching.LogService logInfo
+INFO: {<EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:21:26 AM machine.teaching.LogService logInfo
+INFO: {<NN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:21:36 AM machine.teaching.LogService logInfo
+INFO: {<NS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:21:46 AM machine.teaching.LogService logInfo
+INFO: {<NE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:21:53 AM machine.teaching.LogService logInfo
+INFO: {<NW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:22:22 AM machine.teaching.LogService logInfo
+INFO: {<N->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:22:22 AM machine.teaching.LogService logInfo
+INFO: {<N->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:22:22 AM machine.teaching.LogService logInfo
+INFO: {<N->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:22:34 AM machine.teaching.LogService logInfo
+INFO: {<N->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:22:42 AM machine.teaching.LogService logInfo
+INFO: {<SN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:22:54 AM machine.teaching.LogService logInfo
+INFO: {<SS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:23:04 AM machine.teaching.LogService logInfo
+INFO: {<SE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:23:11 AM machine.teaching.LogService logInfo
+INFO: {<SW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:23:40 AM machine.teaching.LogService logInfo
+INFO: {<S->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:23:40 AM machine.teaching.LogService logInfo
+INFO: {<S->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:23:40 AM machine.teaching.LogService logInfo
+INFO: {<S->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:23:52 AM machine.teaching.LogService logInfo
+INFO: {<S->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:23:53 AM machine.teaching.LogService logInfo
+INFO: {<ENES+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:23:53 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>, <N->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:23:53 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>, <S->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:24:11 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>, <W->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:24:11 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:24:12 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NN->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:24:12 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NS->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:24:12 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:24:12 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:24:12 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <N->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:24:12 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SN->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:24:12 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SS->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:24:12 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:24:12 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:24:12 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <S->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:24:12 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:24:12 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <ES->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:24:12 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <EE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:24:12 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <EW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:24:31 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WN->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:24:31 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WS->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:24:31 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:24:31 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:24:31 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <W->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:24:31 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <N->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:24:31 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <S->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:24:51 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <W->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:24:51 AM machine.teaching.LogService logInfo
+INFO: {<EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:24:54 AM machine.teaching.LogService logInfo
+INFO: {<ES->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:25:00 AM machine.teaching.LogService logInfo
+INFO: {<EENES+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:25:00 AM machine.teaching.LogService logInfo
+INFO: {<EENE+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:25:00 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>, <N->} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:25:00 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>, <S->} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:25:01 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>, <W->} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:25:01 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:25:05 AM machine.teaching.LogService logInfo
+INFO: {<EE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:25:14 AM machine.teaching.LogService logInfo
+INFO: {<EW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:26:47 AM machine.teaching.LogService logInfo
+INFO: {<WN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:26:57 AM machine.teaching.LogService logInfo
+INFO: {<WS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:27:06 AM machine.teaching.LogService logInfo
+INFO: {<WE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:27:16 AM machine.teaching.LogService logInfo
+INFO: {<WW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:27:21 AM machine.teaching.LogService logInfo
+INFO: {<W->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:27:21 AM machine.teaching.LogService logInfo
+INFO: {<W->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:27:21 AM machine.teaching.LogService logInfo
+INFO: {<W->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:27:47 AM machine.teaching.LogService logInfo
+INFO: {<W->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:28:23 AM machine.teaching.LogService logInfo
+INFO: {<N->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:28:47 AM machine.teaching.LogService logInfo
+INFO: {<S->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:28:47 AM machine.teaching.LogService logInfo
+INFO: {<ENES+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:28:47 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:28:47 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <N->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:28:47 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <S->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:29:07 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <W->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:29:07 AM machine.teaching.LogService logInfo
+INFO: {<EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:29:10 AM machine.teaching.LogService logInfo
+INFO: {<EENE+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:29:10 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:29:54 AM machine.teaching.LogService logInfo
+INFO: {<W->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:30:06 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:30:06 AM machine.teaching.LogService logInfo
+INFO: {<EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:30:06 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:30:06 AM machine.teaching.LogService logInfo
+INFO: {<EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:30:11 AM machine.teaching.LogService logInfo
+INFO: {<NNN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:30:16 AM machine.teaching.LogService logInfo
+INFO: {<NNS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:30:20 AM machine.teaching.LogService logInfo
+INFO: {<NNE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:30:24 AM machine.teaching.LogService logInfo
+INFO: {<NNW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:30:54 AM machine.teaching.LogService logInfo
+INFO: {<NN->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:30:54 AM machine.teaching.LogService logInfo
+INFO: {<NN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:30:54 AM machine.teaching.LogService logInfo
+INFO: {<NN->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:31:06 AM machine.teaching.LogService logInfo
+INFO: {<NN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:31:12 AM machine.teaching.LogService logInfo
+INFO: {<NSN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:31:15 AM machine.teaching.LogService logInfo
+INFO: {<NSS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:31:18 AM machine.teaching.LogService logInfo
+INFO: {<NSE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:31:21 AM machine.teaching.LogService logInfo
+INFO: {<NSW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:31:42 AM machine.teaching.LogService logInfo
+INFO: {<NS->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:31:42 AM machine.teaching.LogService logInfo
+INFO: {<NS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:31:42 AM machine.teaching.LogService logInfo
+INFO: {<NS->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:31:50 AM machine.teaching.LogService logInfo
+INFO: {<NS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:31:57 AM machine.teaching.LogService logInfo
+INFO: {<NEN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:32:00 AM machine.teaching.LogService logInfo
+INFO: {<NES->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:32:02 AM machine.teaching.LogService logInfo
+INFO: {<NEE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:32:05 AM machine.teaching.LogService logInfo
+INFO: {<NEW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:32:27 AM machine.teaching.LogService logInfo
+INFO: {<NE->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:32:27 AM machine.teaching.LogService logInfo
+INFO: {<NE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:32:27 AM machine.teaching.LogService logInfo
+INFO: {<NE->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:32:36 AM machine.teaching.LogService logInfo
+INFO: {<NE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:32:40 AM machine.teaching.LogService logInfo
+INFO: {<NWN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:32:42 AM machine.teaching.LogService logInfo
+INFO: {<NWS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:32:44 AM machine.teaching.LogService logInfo
+INFO: {<NWE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:32:46 AM machine.teaching.LogService logInfo
+INFO: {<NWW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:33:00 AM machine.teaching.LogService logInfo
+INFO: {<NW->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:33:00 AM machine.teaching.LogService logInfo
+INFO: {<NW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:33:00 AM machine.teaching.LogService logInfo
+INFO: {<NW->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:33:05 AM machine.teaching.LogService logInfo
+INFO: {<NW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:35:10 AM machine.teaching.LogService logInfo
+INFO: {<N->, <N->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:35:45 AM machine.teaching.LogService logInfo
+INFO: {<N->, <S->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:35:45 AM machine.teaching.LogService logInfo
+INFO: {<N->, <ENES+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:35:45 AM machine.teaching.LogService logInfo
+INFO: {<N->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:35:45 AM machine.teaching.LogService logInfo
+INFO: {<N->, <EN+>, <N->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:35:45 AM machine.teaching.LogService logInfo
+INFO: {<N->, <EN+>, <S->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:36:04 AM machine.teaching.LogService logInfo
+INFO: {<N->, <EN+>, <W->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:36:04 AM machine.teaching.LogService logInfo
+INFO: {<N->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:36:07 AM machine.teaching.LogService logInfo
+INFO: {<N->, <EENE+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:36:07 AM machine.teaching.LogService logInfo
+INFO: {<N->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:37:14 AM machine.teaching.LogService logInfo
+INFO: {<N->, <W->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:37:51 AM machine.teaching.LogService logInfo
+INFO: {<N->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:37:51 AM machine.teaching.LogService logInfo
+INFO: {<N->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:37:51 AM machine.teaching.LogService logInfo
+INFO: {<N->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:38:03 AM machine.teaching.LogService logInfo
+INFO: {<N->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:38:05 AM machine.teaching.LogService logInfo
+INFO: {<SNN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:38:08 AM machine.teaching.LogService logInfo
+INFO: {<SNS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:38:13 AM machine.teaching.LogService logInfo
+INFO: {<SNE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:38:16 AM machine.teaching.LogService logInfo
+INFO: {<SNW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:38:40 AM machine.teaching.LogService logInfo
+INFO: {<SN->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:38:40 AM machine.teaching.LogService logInfo
+INFO: {<SN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:38:40 AM machine.teaching.LogService logInfo
+INFO: {<SN->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:38:50 AM machine.teaching.LogService logInfo
+INFO: {<SN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:38:56 AM machine.teaching.LogService logInfo
+INFO: {<SSN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:39:01 AM machine.teaching.LogService logInfo
+INFO: {<SSS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:39:07 AM machine.teaching.LogService logInfo
+INFO: {<SSE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:39:10 AM machine.teaching.LogService logInfo
+INFO: {<SSW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:39:36 AM machine.teaching.LogService logInfo
+INFO: {<SS->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:39:36 AM machine.teaching.LogService logInfo
+INFO: {<SS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:39:36 AM machine.teaching.LogService logInfo
+INFO: {<SS->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:39:47 AM machine.teaching.LogService logInfo
+INFO: {<SS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:39:54 AM machine.teaching.LogService logInfo
+INFO: {<SEN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:39:57 AM machine.teaching.LogService logInfo
+INFO: {<SES->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:40:01 AM machine.teaching.LogService logInfo
+INFO: {<SEE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:40:03 AM machine.teaching.LogService logInfo
+INFO: {<SEW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:40:25 AM machine.teaching.LogService logInfo
+INFO: {<SE->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:40:25 AM machine.teaching.LogService logInfo
+INFO: {<SE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:40:25 AM machine.teaching.LogService logInfo
+INFO: {<SE->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:40:34 AM machine.teaching.LogService logInfo
+INFO: {<SE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:40:38 AM machine.teaching.LogService logInfo
+INFO: {<SWN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:40:40 AM machine.teaching.LogService logInfo
+INFO: {<SWS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:40:43 AM machine.teaching.LogService logInfo
+INFO: {<SWE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:40:45 AM machine.teaching.LogService logInfo
+INFO: {<SWW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:40:58 AM machine.teaching.LogService logInfo
+INFO: {<SW->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:40:58 AM machine.teaching.LogService logInfo
+INFO: {<SW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:40:58 AM machine.teaching.LogService logInfo
+INFO: {<SW->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:41:04 AM machine.teaching.LogService logInfo
+INFO: {<SW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:41:40 AM machine.teaching.LogService logInfo
+INFO: {<S->, <N->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:43:44 AM machine.teaching.LogService logInfo
+INFO: {<S->, <S->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:43:44 AM machine.teaching.LogService logInfo
+INFO: {<S->, <ENES+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:43:44 AM machine.teaching.LogService logInfo
+INFO: {<S->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:43:44 AM machine.teaching.LogService logInfo
+INFO: {<S->, <EN+>, <N->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:43:44 AM machine.teaching.LogService logInfo
+INFO: {<S->, <EN+>, <S->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:44:03 AM machine.teaching.LogService logInfo
+INFO: {<S->, <EN+>, <W->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:44:03 AM machine.teaching.LogService logInfo
+INFO: {<S->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:44:06 AM machine.teaching.LogService logInfo
+INFO: {<S->, <EENE+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:44:06 AM machine.teaching.LogService logInfo
+INFO: {<S->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:45:13 AM machine.teaching.LogService logInfo
+INFO: {<S->, <W->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:45:50 AM machine.teaching.LogService logInfo
+INFO: {<S->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:45:50 AM machine.teaching.LogService logInfo
+INFO: {<S->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:45:50 AM machine.teaching.LogService logInfo
+INFO: {<S->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:46:02 AM machine.teaching.LogService logInfo
+INFO: {<S->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:46:03 AM machine.teaching.LogService logInfo
+INFO: {<ENN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:46:06 AM machine.teaching.LogService logInfo
+INFO: {<ENS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:46:09 AM machine.teaching.LogService logInfo
+INFO: {<ENES+>, <N->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:46:09 AM machine.teaching.LogService logInfo
+INFO: {<ENES+>, <S->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:46:25 AM machine.teaching.LogService logInfo
+INFO: {<ENES+>, <W->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:46:25 AM machine.teaching.LogService logInfo
+INFO: {<ENES+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:46:25 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NN->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:46:25 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NS->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:46:25 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:46:25 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>, <NW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:46:25 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>, <N->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:46:25 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SN->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:46:25 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SS->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:46:25 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:46:25 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>, <SW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:46:25 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>, <S->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:46:25 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:46:42 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>, <ES->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:46:42 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>, <EE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:46:42 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>, <EW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:46:59 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WN->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:46:59 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WS->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:46:59 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:46:59 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>, <WW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:46:59 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>, <W->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:46:59 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>, <N->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:46:59 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>, <S->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:16 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>, <W->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:16 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:18 AM machine.teaching.LogService logInfo
+INFO: {<ENW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:19 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NNN->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:19 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NNS->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:19 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NNE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:19 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NNW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:19 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NN->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:19 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NSN->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:19 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NSS->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:19 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NSE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:19 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NSW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:19 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NS->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:19 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NEN->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:19 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NES->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:19 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NEE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:19 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NEW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:19 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:19 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NWN->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:19 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NWS->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:19 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NWE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:19 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NWW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:19 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:19 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <N->, <N->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:19 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <N->, <S->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:38 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <N->, <W->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:38 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <N->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:38 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SNN->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:38 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SNS->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:38 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SNE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:38 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SNW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:38 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SN->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:38 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SSN->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:38 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SSS->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:38 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SSE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:38 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SSW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:38 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SS->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:38 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SEN->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:38 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SES->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:38 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SEE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:38 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SEW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:38 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:38 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SWN->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:38 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SWS->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:38 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SWE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:38 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SWW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:38 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:38 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <S->, <N->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:38 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <S->, <S->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:57 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <S->, <W->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:57 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <S->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:57 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <ENN->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:58 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <ENS->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:47:58 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:48:14 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <ENW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:48:14 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:48:14 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <ESN->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:48:14 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <ESS->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:48:14 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <ESE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:48:14 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <ESW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:48:14 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <ES->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:48:14 AM machine.teaching.LogService logInfo
+INFO: {<EN->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:48:14 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <EEN->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:48:14 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <EES->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:48:14 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <EEE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:48:14 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <EEW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:48:14 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <EE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:48:14 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <EWN->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:48:14 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <EWS->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:48:14 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <EWE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:48:14 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <EWW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:48:14 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <EW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:11 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WNN->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:11 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WNS->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:11 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WNE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:11 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WNW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:11 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WN->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:11 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WSN->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:11 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WSS->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:11 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WSE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:11 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WSW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:11 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WS->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:11 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WEN->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:11 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WES->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:11 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WEE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:11 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WEW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:11 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:11 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WWN->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:11 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WWS->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:11 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WWE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:11 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WWW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:11 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:11 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <W->, <N->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:11 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <W->, <S->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:30 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <W->, <W->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:30 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <W->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:30 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NN->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:30 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NS->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:30 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:30 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:30 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <N->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:30 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SN->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:30 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SS->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:30 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:30 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:30 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <S->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:30 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:30 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <ES->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:30 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <EE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:30 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <EW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:49 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WN->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:49 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WS->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:49 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:49 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:49 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <W->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:49 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <N->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:50:49 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <S->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:51:09 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <W->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:51:09 AM machine.teaching.LogService logInfo
+INFO: {<EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:51:10 AM machine.teaching.LogService logInfo
+INFO: {<ESN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:51:12 AM machine.teaching.LogService logInfo
+INFO: {<ESS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:51:15 AM machine.teaching.LogService logInfo
+INFO: {<ESE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:51:19 AM machine.teaching.LogService logInfo
+INFO: {<ESW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:51:26 AM machine.teaching.LogService logInfo
+INFO: {<ES->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:51:26 AM machine.teaching.LogService logInfo
+INFO: {<ES->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:51:27 AM machine.teaching.LogService logInfo
+INFO: {<ES->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:51:46 AM machine.teaching.LogService logInfo
+INFO: {<ES->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:51:53 AM machine.teaching.LogService logInfo
+INFO: {<EENES+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:51:53 AM machine.teaching.LogService logInfo
+INFO: {<EENE+>, <N->} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:51:53 AM machine.teaching.LogService logInfo
+INFO: {<EENE+>, <S->} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:51:54 AM machine.teaching.LogService logInfo
+INFO: {<EENE+>, <W->} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:51:54 AM machine.teaching.LogService logInfo
+INFO: {<EENE+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:51:54 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NN->} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:51:54 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NS->} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:51:54 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NE->} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:51:54 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>, <NW->} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:51:54 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>, <N->} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:51:54 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SN->} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:51:54 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SS->} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:51:54 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SE->} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:51:54 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>, <SW->} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:51:54 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>, <S->} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:51:54 AM machine.teaching.LogService logInfo
+INFO: {<EEN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:51:54 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>, <EN->} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:51:54 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>, <ES->} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:51:55 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>, <EW->} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:51:56 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WN->} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:51:56 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WS->} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:51:56 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WE->} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:51:56 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>, <WW->} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:51:56 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>, <W->} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:51:56 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>, <N->} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:51:56 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>, <S->} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:51:57 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>, <W->} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:51:57 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:51:58 AM machine.teaching.LogService logInfo
+INFO: {<EES->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:52:03 AM machine.teaching.LogService logInfo
+INFO: {<EEE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:52:09 AM machine.teaching.LogService logInfo
+INFO: {<EEW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:52:17 AM machine.teaching.LogService logInfo
+INFO: {<EE->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:52:17 AM machine.teaching.LogService logInfo
+INFO: {<EE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:52:45 AM machine.teaching.LogService logInfo
+INFO: {<EE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:52:53 AM machine.teaching.LogService logInfo
+INFO: {<EWN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:52:55 AM machine.teaching.LogService logInfo
+INFO: {<EWS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:52:57 AM machine.teaching.LogService logInfo
+INFO: {<EWE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:53:00 AM machine.teaching.LogService logInfo
+INFO: {<EWW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:53:04 AM machine.teaching.LogService logInfo
+INFO: {<EW->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:53:04 AM machine.teaching.LogService logInfo
+INFO: {<EW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 9:53:04 AM machine.teaching.LogService logInfo
+INFO: {<EW->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 9:53:17 AM machine.teaching.LogService logInfo
+INFO: {<EW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:01:55 AM machine.teaching.LogService logInfo
+INFO: {<WNN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:01:58 AM machine.teaching.LogService logInfo
+INFO: {<WNS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:02:02 AM machine.teaching.LogService logInfo
+INFO: {<WNE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:02:06 AM machine.teaching.LogService logInfo
+INFO: {<WNW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:02:15 AM machine.teaching.LogService logInfo
+INFO: {<WN->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:02:15 AM machine.teaching.LogService logInfo
+INFO: {<WN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:02:15 AM machine.teaching.LogService logInfo
+INFO: {<WN->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:02:39 AM machine.teaching.LogService logInfo
+INFO: {<WN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:02:47 AM machine.teaching.LogService logInfo
+INFO: {<WSN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:02:49 AM machine.teaching.LogService logInfo
+INFO: {<WSS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:02:53 AM machine.teaching.LogService logInfo
+INFO: {<WSE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:02:56 AM machine.teaching.LogService logInfo
+INFO: {<WSW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:03:04 AM machine.teaching.LogService logInfo
+INFO: {<WS->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:03:04 AM machine.teaching.LogService logInfo
+INFO: {<WS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:03:04 AM machine.teaching.LogService logInfo
+INFO: {<WS->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:03:24 AM machine.teaching.LogService logInfo
+INFO: {<WS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:03:32 AM machine.teaching.LogService logInfo
+INFO: {<WEN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:03:36 AM machine.teaching.LogService logInfo
+INFO: {<WES->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:03:39 AM machine.teaching.LogService logInfo
+INFO: {<WEE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:03:42 AM machine.teaching.LogService logInfo
+INFO: {<WEW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:03:49 AM machine.teaching.LogService logInfo
+INFO: {<WE->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:03:49 AM machine.teaching.LogService logInfo
+INFO: {<WE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:03:49 AM machine.teaching.LogService logInfo
+INFO: {<WE->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:04:11 AM machine.teaching.LogService logInfo
+INFO: {<WE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:04:18 AM machine.teaching.LogService logInfo
+INFO: {<WWN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:04:21 AM machine.teaching.LogService logInfo
+INFO: {<WWS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:04:24 AM machine.teaching.LogService logInfo
+INFO: {<WWE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:04:29 AM machine.teaching.LogService logInfo
+INFO: {<WWW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:04:37 AM machine.teaching.LogService logInfo
+INFO: {<WW->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:04:37 AM machine.teaching.LogService logInfo
+INFO: {<WW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:04:37 AM machine.teaching.LogService logInfo
+INFO: {<WW->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:04:57 AM machine.teaching.LogService logInfo
+INFO: {<WW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:05:25 AM machine.teaching.LogService logInfo
+INFO: {<W->, <N->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:06:00 AM machine.teaching.LogService logInfo
+INFO: {<W->, <S->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:06:12 AM machine.teaching.LogService logInfo
+INFO: {<W->, <ENES+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:06:12 AM machine.teaching.LogService logInfo
+INFO: {<W->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:06:12 AM machine.teaching.LogService logInfo
+INFO: {<W->, <EN+>, <N->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:06:12 AM machine.teaching.LogService logInfo
+INFO: {<W->, <EN+>, <S->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:06:31 AM machine.teaching.LogService logInfo
+INFO: {<W->, <EN+>, <W->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:06:31 AM machine.teaching.LogService logInfo
+INFO: {<W->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:06:34 AM machine.teaching.LogService logInfo
+INFO: {<W->, <EENE+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:06:34 AM machine.teaching.LogService logInfo
+INFO: {<W->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:08:58 AM machine.teaching.LogService logInfo
+INFO: {<W->, <W->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:09:22 AM machine.teaching.LogService logInfo
+INFO: {<W->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:09:22 AM machine.teaching.LogService logInfo
+INFO: {<W->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:09:22 AM machine.teaching.LogService logInfo
+INFO: {<W->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:09:47 AM machine.teaching.LogService logInfo
+INFO: {<W->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:10:08 AM machine.teaching.LogService logInfo
+INFO: {<NN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:10:18 AM machine.teaching.LogService logInfo
+INFO: {<NS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:10:27 AM machine.teaching.LogService logInfo
+INFO: {<NE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:10:34 AM machine.teaching.LogService logInfo
+INFO: {<NW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:11:01 AM machine.teaching.LogService logInfo
+INFO: {<N->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:11:01 AM machine.teaching.LogService logInfo
+INFO: {<N->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:11:01 AM machine.teaching.LogService logInfo
+INFO: {<N->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:11:13 AM machine.teaching.LogService logInfo
+INFO: {<N->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:11:20 AM machine.teaching.LogService logInfo
+INFO: {<SN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:11:31 AM machine.teaching.LogService logInfo
+INFO: {<SS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:11:41 AM machine.teaching.LogService logInfo
+INFO: {<SE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:11:48 AM machine.teaching.LogService logInfo
+INFO: {<SW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:12:15 AM machine.teaching.LogService logInfo
+INFO: {<S->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:12:15 AM machine.teaching.LogService logInfo
+INFO: {<S->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:12:15 AM machine.teaching.LogService logInfo
+INFO: {<S->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:12:27 AM machine.teaching.LogService logInfo
+INFO: {<S->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:12:28 AM machine.teaching.LogService logInfo
+INFO: {<ENES+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:12:28 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>, <N->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:12:28 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>, <S->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:12:46 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>, <W->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:12:46 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:12:46 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NN->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:12:46 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NS->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:12:46 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:12:46 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <NW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:12:46 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <N->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:12:46 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SN->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:12:46 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SS->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:12:46 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:12:46 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <SW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:12:46 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <S->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:12:46 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:12:46 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <ES->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:12:46 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <EE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:12:46 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <EW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:13:05 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WN->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:13:05 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WS->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:13:05 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WE->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:13:05 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <WW->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:13:05 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <W->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:13:05 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <N->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:13:05 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <S->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:13:25 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <W->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:13:25 AM machine.teaching.LogService logInfo
+INFO: {<EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:13:28 AM machine.teaching.LogService logInfo
+INFO: {<ES->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:13:33 AM machine.teaching.LogService logInfo
+INFO: {<EENES+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:13:33 AM machine.teaching.LogService logInfo
+INFO: {<EENE+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:13:33 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>, <N->} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:13:33 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>, <S->} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:13:35 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>, <W->} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:13:35 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:13:38 AM machine.teaching.LogService logInfo
+INFO: {<EE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:13:47 AM machine.teaching.LogService logInfo
+INFO: {<EW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:15:18 AM machine.teaching.LogService logInfo
+INFO: {<WN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:15:28 AM machine.teaching.LogService logInfo
+INFO: {<WS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:15:37 AM machine.teaching.LogService logInfo
+INFO: {<WE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:15:46 AM machine.teaching.LogService logInfo
+INFO: {<WW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:15:52 AM machine.teaching.LogService logInfo
+INFO: {<W->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:15:52 AM machine.teaching.LogService logInfo
+INFO: {<W->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:15:52 AM machine.teaching.LogService logInfo
+INFO: {<W->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:16:17 AM machine.teaching.LogService logInfo
+INFO: {<W->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:16:52 AM machine.teaching.LogService logInfo
+INFO: {<N->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:17:15 AM machine.teaching.LogService logInfo
+INFO: {<S->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:17:15 AM machine.teaching.LogService logInfo
+INFO: {<ENES+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:17:15 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:17:15 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <N->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:17:15 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <S->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:17:35 AM machine.teaching.LogService logInfo
+INFO: {<EN+>, <W->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:17:35 AM machine.teaching.LogService logInfo
+INFO: {<EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:17:37 AM machine.teaching.LogService logInfo
+INFO: {<EENE+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:17:37 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:18:22 AM machine.teaching.LogService logInfo
+INFO: {<W->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:18:33 AM machine.teaching.LogService logInfo
+INFO: {<ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:18:33 AM machine.teaching.LogService logInfo
+INFO: {<EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:18:33 AM machine.teaching.LogService logInfo
+INFO: {<EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:18:33 AM machine.teaching.LogService logInfo
+INFO: {<EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:18:38 AM machine.teaching.LogService logInfo
+INFO: {<NNNN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:18:41 AM machine.teaching.LogService logInfo
+INFO: {<NNNS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:18:43 AM machine.teaching.LogService logInfo
+INFO: {<NNNE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:18:44 AM machine.teaching.LogService logInfo
+INFO: {<NNNW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:18:59 AM machine.teaching.LogService logInfo
+INFO: {<NNN->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:18:59 AM machine.teaching.LogService logInfo
+INFO: {<NNN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:18:59 AM machine.teaching.LogService logInfo
+INFO: {<NNN->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:19:05 AM machine.teaching.LogService logInfo
+INFO: {<NNN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:19:09 AM machine.teaching.LogService logInfo
+INFO: {<NNSN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:19:11 AM machine.teaching.LogService logInfo
+INFO: {<NNSS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:19:13 AM machine.teaching.LogService logInfo
+INFO: {<NNSE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:19:15 AM machine.teaching.LogService logInfo
+INFO: {<NNSW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:19:21 AM machine.teaching.LogService logInfo
+INFO: {<NNS->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:19:21 AM machine.teaching.LogService logInfo
+INFO: {<NNS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:19:21 AM machine.teaching.LogService logInfo
+INFO: {<NNS->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:19:24 AM machine.teaching.LogService logInfo
+INFO: {<NNS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:19:28 AM machine.teaching.LogService logInfo
+INFO: {<NNEN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:19:31 AM machine.teaching.LogService logInfo
+INFO: {<NNES->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:19:33 AM machine.teaching.LogService logInfo
+INFO: {<NNEE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:19:35 AM machine.teaching.LogService logInfo
+INFO: {<NNEW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:19:46 AM machine.teaching.LogService logInfo
+INFO: {<NNE->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:19:46 AM machine.teaching.LogService logInfo
+INFO: {<NNE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:19:46 AM machine.teaching.LogService logInfo
+INFO: {<NNE->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:19:51 AM machine.teaching.LogService logInfo
+INFO: {<NNE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:19:54 AM machine.teaching.LogService logInfo
+INFO: {<NNWN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:19:56 AM machine.teaching.LogService logInfo
+INFO: {<NNWS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:19:58 AM machine.teaching.LogService logInfo
+INFO: {<NNWE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:20:00 AM machine.teaching.LogService logInfo
+INFO: {<NNWW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:20:06 AM machine.teaching.LogService logInfo
+INFO: {<NNW->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:20:06 AM machine.teaching.LogService logInfo
+INFO: {<NNW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:20:06 AM machine.teaching.LogService logInfo
+INFO: {<NNW->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:20:09 AM machine.teaching.LogService logInfo
+INFO: {<NNW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:21:28 AM machine.teaching.LogService logInfo
+INFO: {<NN->, <N->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:23:17 AM machine.teaching.LogService logInfo
+INFO: {<NN->, <S->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:23:21 AM machine.teaching.LogService logInfo
+INFO: {<NN->, <ENES+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:23:21 AM machine.teaching.LogService logInfo
+INFO: {<NN->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:23:21 AM machine.teaching.LogService logInfo
+INFO: {<NN->, <EN+>, <N->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:23:25 AM machine.teaching.LogService logInfo
+INFO: {<NN->, <EN+>, <S->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:23:44 AM machine.teaching.LogService logInfo
+INFO: {<NN->, <EN+>, <W->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:23:44 AM machine.teaching.LogService logInfo
+INFO: {<NN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:23:51 AM machine.teaching.LogService logInfo
+INFO: {<NN->, <EENE+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:23:51 AM machine.teaching.LogService logInfo
+INFO: {<NN->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:25:12 AM machine.teaching.LogService logInfo
+INFO: {<NN->, <W->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:25:57 AM machine.teaching.LogService logInfo
+INFO: {<NN->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:25:57 AM machine.teaching.LogService logInfo
+INFO: {<NN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:25:57 AM machine.teaching.LogService logInfo
+INFO: {<NN->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:26:10 AM machine.teaching.LogService logInfo
+INFO: {<NN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:26:15 AM machine.teaching.LogService logInfo
+INFO: {<NSNN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:26:17 AM machine.teaching.LogService logInfo
+INFO: {<NSNS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:26:19 AM machine.teaching.LogService logInfo
+INFO: {<NSNE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:26:21 AM machine.teaching.LogService logInfo
+INFO: {<NSNW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:26:28 AM machine.teaching.LogService logInfo
+INFO: {<NSN->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:26:28 AM machine.teaching.LogService logInfo
+INFO: {<NSN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:26:28 AM machine.teaching.LogService logInfo
+INFO: {<NSN->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:26:31 AM machine.teaching.LogService logInfo
+INFO: {<NSN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:26:33 AM machine.teaching.LogService logInfo
+INFO: {<NSSN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:26:35 AM machine.teaching.LogService logInfo
+INFO: {<NSSS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:26:37 AM machine.teaching.LogService logInfo
+INFO: {<NSSE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:26:39 AM machine.teaching.LogService logInfo
+INFO: {<NSSW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:26:43 AM machine.teaching.LogService logInfo
+INFO: {<NSS->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:26:43 AM machine.teaching.LogService logInfo
+INFO: {<NSS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:26:43 AM machine.teaching.LogService logInfo
+INFO: {<NSS->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:26:45 AM machine.teaching.LogService logInfo
+INFO: {<NSS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:26:48 AM machine.teaching.LogService logInfo
+INFO: {<NSEN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:26:50 AM machine.teaching.LogService logInfo
+INFO: {<NSES->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:26:52 AM machine.teaching.LogService logInfo
+INFO: {<NSEE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:26:54 AM machine.teaching.LogService logInfo
+INFO: {<NSEW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:27:02 AM machine.teaching.LogService logInfo
+INFO: {<NSE->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:27:02 AM machine.teaching.LogService logInfo
+INFO: {<NSE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:27:02 AM machine.teaching.LogService logInfo
+INFO: {<NSE->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:27:06 AM machine.teaching.LogService logInfo
+INFO: {<NSE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:27:08 AM machine.teaching.LogService logInfo
+INFO: {<NSWN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:27:10 AM machine.teaching.LogService logInfo
+INFO: {<NSWS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:27:12 AM machine.teaching.LogService logInfo
+INFO: {<NSWE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:27:14 AM machine.teaching.LogService logInfo
+INFO: {<NSWW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:27:18 AM machine.teaching.LogService logInfo
+INFO: {<NSW->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:27:18 AM machine.teaching.LogService logInfo
+INFO: {<NSW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:27:18 AM machine.teaching.LogService logInfo
+INFO: {<NSW->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:27:20 AM machine.teaching.LogService logInfo
+INFO: {<NSW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:28:21 AM machine.teaching.LogService logInfo
+INFO: {<NS->, <N->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:29:43 AM machine.teaching.LogService logInfo
+INFO: {<NS->, <S->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:29:46 AM machine.teaching.LogService logInfo
+INFO: {<NS->, <ENES+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:29:46 AM machine.teaching.LogService logInfo
+INFO: {<NS->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:29:46 AM machine.teaching.LogService logInfo
+INFO: {<NS->, <EN+>, <N->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:29:49 AM machine.teaching.LogService logInfo
+INFO: {<NS->, <EN+>, <S->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:30:08 AM machine.teaching.LogService logInfo
+INFO: {<NS->, <EN+>, <W->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:30:08 AM machine.teaching.LogService logInfo
+INFO: {<NS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:30:14 AM machine.teaching.LogService logInfo
+INFO: {<NS->, <EENE+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:30:14 AM machine.teaching.LogService logInfo
+INFO: {<NS->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:31:24 AM machine.teaching.LogService logInfo
+INFO: {<NS->, <W->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:31:58 AM machine.teaching.LogService logInfo
+INFO: {<NS->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:31:58 AM machine.teaching.LogService logInfo
+INFO: {<NS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:31:58 AM machine.teaching.LogService logInfo
+INFO: {<NS->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:32:06 AM machine.teaching.LogService logInfo
+INFO: {<NS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:32:11 AM machine.teaching.LogService logInfo
+INFO: {<NENN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:32:12 AM machine.teaching.LogService logInfo
+INFO: {<NENS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:32:16 AM machine.teaching.LogService logInfo
+INFO: {<NENE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:32:19 AM machine.teaching.LogService logInfo
+INFO: {<NENW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:32:29 AM machine.teaching.LogService logInfo
+INFO: {<NEN->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:32:29 AM machine.teaching.LogService logInfo
+INFO: {<NEN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:32:29 AM machine.teaching.LogService logInfo
+INFO: {<NEN->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:32:34 AM machine.teaching.LogService logInfo
+INFO: {<NEN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:32:37 AM machine.teaching.LogService logInfo
+INFO: {<NESN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:32:39 AM machine.teaching.LogService logInfo
+INFO: {<NESS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:32:41 AM machine.teaching.LogService logInfo
+INFO: {<NESE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:32:43 AM machine.teaching.LogService logInfo
+INFO: {<NESW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:32:46 AM machine.teaching.LogService logInfo
+INFO: {<NES->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:32:46 AM machine.teaching.LogService logInfo
+INFO: {<NES->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:32:46 AM machine.teaching.LogService logInfo
+INFO: {<NES->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:32:48 AM machine.teaching.LogService logInfo
+INFO: {<NES->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:32:51 AM machine.teaching.LogService logInfo
+INFO: {<NEEN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:32:53 AM machine.teaching.LogService logInfo
+INFO: {<NEES->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:32:55 AM machine.teaching.LogService logInfo
+INFO: {<NEEE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:32:56 AM machine.teaching.LogService logInfo
+INFO: {<NEEW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:33:03 AM machine.teaching.LogService logInfo
+INFO: {<NEE->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:33:03 AM machine.teaching.LogService logInfo
+INFO: {<NEE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:33:03 AM machine.teaching.LogService logInfo
+INFO: {<NEE->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:33:06 AM machine.teaching.LogService logInfo
+INFO: {<NEE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:33:08 AM machine.teaching.LogService logInfo
+INFO: {<NEWN->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:33:10 AM machine.teaching.LogService logInfo
+INFO: {<NEWS->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:33:12 AM machine.teaching.LogService logInfo
+INFO: {<NEWE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:33:13 AM machine.teaching.LogService logInfo
+INFO: {<NEWW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:33:17 AM machine.teaching.LogService logInfo
+INFO: {<NEW->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:33:17 AM machine.teaching.LogService logInfo
+INFO: {<NEW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:33:17 AM machine.teaching.LogService logInfo
+INFO: {<NEW->, <EEN+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:33:18 AM machine.teaching.LogService logInfo
+INFO: {<NEW->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:34:23 AM machine.teaching.LogService logInfo
+INFO: {<NE->, <N->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:35:48 AM machine.teaching.LogService logInfo
+INFO: {<NE->, <S->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:35:51 AM machine.teaching.LogService logInfo
+INFO: {<NE->, <ENES+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:35:51 AM machine.teaching.LogService logInfo
+INFO: {<NE->, <ENE+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:35:51 AM machine.teaching.LogService logInfo
+INFO: {<NE->, <EN+>, <N->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:35:54 AM machine.teaching.LogService logInfo
+INFO: {<NE->, <EN+>, <S->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:36:13 AM machine.teaching.LogService logInfo
+INFO: {<NE->, <EN+>, <W->} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:36:13 AM machine.teaching.LogService logInfo
+INFO: {<NE->, <EN+>} ==> @ and Unfolded is: RURD
+Jun 12, 2021 10:36:18 AM machine.teaching.LogService logInfo
+INFO: {<NE->, <EENE+>} ==> R@ and Unfolded is: RRURD
+Jun 12, 2021 10:36:18 AM machine.teaching.LogService logInfo
+INFO: {<NE->, <EEN+>} ==> R@ and Unfolded is: RRURD

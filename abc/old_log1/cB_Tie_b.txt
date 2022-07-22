@@ -1,0 +1,24 @@
+jul 29, 2021 10:25:59 A. M. machine.teaching.LogService logInfo
+INFO: Concepts to identify: 
+jul 29, 2021 10:26:00 A. M. machine.teaching.LogService logInfo
+INFO: | p_a = RURD) |
+jul 29, 2021 10:26:00 A. M. machine.teaching.LogService logInfo
+INFO: | p_b = RRURD) |
+jul 29, 2021 10:26:00 A. M. machine.teaching.LogService logInfo
+INFO: | p_c = R)URD) |
+jul 29, 2021 10:26:00 A. M. machine.teaching.LogService logInfo
+INFO: .
+jul 29, 2021 10:26:00 A. M. machine.teaching.LogService logInfo
+INFO: Library provided: 
+jul 29, 2021 10:26:00 A. M. machine.teaching.LogService logInfo
+INFO: | p_c = R)URD) |
+jul 29, 2021 10:26:00 A. M. machine.teaching.LogService logInfo
+INFO: .
+jul 29, 2021 10:26:00 A. M. machine.teaching.LogService logInfo
+INFO: We instantiate the learner.
+jul 29, 2021 10:26:00 A. M. machine.teaching.LogService logInfo
+INFO: | @ = R)URD) |
+jul 29, 2021 10:26:00 A. M. machine.teaching.LogService logInfo
+INFO: Id program--->27556
+jul 29, 2021 10:26:00 A. M. machine.teaching.LogService logInfo
+INFO: The learner identifes concept 'RRURD)' on input :{<EENESEE+>, <EEE->}

@@ -1,0 +1,13 @@
+INFO: Concepts to identify:  [Mon Jul 19 12:50:05 CEST 2021]
+INFO: | p_c = R)URD) | [Mon Jul 19 12:50:05 CEST 2021]
+INFO: . [Mon Jul 19 12:50:05 CEST 2021]
+INFO: Library provided:  [Mon Jul 19 12:50:05 CEST 2021]
+INFO: | p_b = RRURD | [Mon Jul 19 12:50:05 CEST 2021]
+INFO: | p_a = RURD | [Mon Jul 19 12:50:05 CEST 2021]
+INFO: . [Mon Jul 19 12:50:05 CEST 2021]
+INFO: We instantiate the teacher. [Mon Jul 19 12:50:05 CEST 2021]
+INFO: We instantiate the learner. [Mon Jul 19 12:50:24 CEST 2021]
+INFO: | @0 = RRURD | [Mon Jul 19 12:50:24 CEST 2021]
+INFO: | @1 = RURD | [Mon Jul 19 12:50:24 CEST 2021]
+INFO: Concepts identified by the learner: [Mon Jul 19 12:50:25 CEST 2021]
+slurmstepd: error: *** JOB 28071 ON nodo-7-1 CANCELLED AT 2021-07-19T13:51:21 ***
